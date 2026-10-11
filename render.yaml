@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: aegis-electronics-mart
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/v1/ready
+    envVars:
+      - key: PORTAL_DATABASE_URL
+        sync: false

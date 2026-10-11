@@ -1,0 +1,107 @@
+{
+  "categories": [
+    {"slug":"cooling","name":"Cooling","description":"Air conditioners & air coolers"},
+    {"slug":"refrigeration","name":"Refrigeration","description":"Fridges & freezers"},
+    {"slug":"laundry","name":"Laundry","description":"Washers & dryers"},
+    {"slug":"kitchen","name":"Kitchen","description":"Everyday kitchen appliances"},
+    {"slug":"tv-audio","name":"TV & audio","description":"Screens, sound & connections"}
+  ],
+  "articles": [
+    {
+      "slug":"prepare-for-appliance-delivery","category":"refrigeration","title":"Getting ready for your appliance delivery","excerpt":"A little preparation makes arrival day easier. Here’s what to check before your new appliance reaches your door.","topic":"delivery",
+      "sections":[
+        {"heading":"Make room before it arrives","paragraphs":["Start with the dimensions in the product manual, including the recommended ventilation space. Measure the intended location and the route from your entrance. Doorways, stairs and tight corners can be more restrictive than the final space.","Clear loose rugs and movable furniture from the route. Keep children and pets away from the delivery area. A large appliance should be handled by the delivery or installation team, rather than moved on your own."]},
+        {"heading":"Have the essentials ready","bullets":["Keep your order reference and the recipient’s contact details available.","Check building access arrangements and tell the delivery team about stairs or a lift.","Arrange suitable access to the intended location without moving electrical or plumbing connections yourself.","If installation is a separate service, confirm its booking before arrival."]},
+        {"heading":"Check the delivery together","paragraphs":["Compare the model and visible packaging with your order. If the packaging is damaged, take clear photographs and record the concern with the delivery team. Keep the packaging and paperwork until any issue is resolved.","Before switching the appliance on, follow the manufacturer’s transport and installation instructions. Refrigerators in particular may require a settling period that varies by model and transport conditions."],"note":"This guide does not confirm a delivery booking. Use the delivery details supplied with your actual order."}
+      ]
+    },
+    {
+      "slug":"understand-appliance-warranty","category":"kitchen","title":"Your appliance warranty, explained","excerpt":"Know which documents to keep, where to find your serial number, and what to include when asking for warranty support.","topic":"warranty",
+      "sections":[
+        {"heading":"Start with the warranty document","paragraphs":["Warranty terms depend on the manufacturer, model and purchase. The document supplied with the appliance is the source for its coverage period, exclusions and service process. A general help article cannot extend that coverage.","Keep the invoice, model number and warranty document together. If registration is requested, use the official manufacturer’s instructions and retain the confirmation."]},
+        {"heading":"Gather the information support needs","bullets":["The purchase date and invoice or order reference.","The model and serial number from the product label or paperwork.","A short description of the problem, including when it started.","Any displayed error code and photographs that show the issue without opening the appliance."]},
+        {"heading":"Before arranging a repair","paragraphs":["Check the troubleshooting section of the model’s manual. Do not dismantle the appliance or arrange an unapproved repair while a warranty request is being reviewed. Ask the manufacturer or seller which service route applies.","A warranty request is an assessment, not an automatic approval. Keep a record of the reference number and any advice you receive so the next conversation can pick up where you left off."],"note":"Never share passwords, payment-card details or identity documents in a general support message."}
+      ]
+    },
+    {
+      "slug":"washing-machine-first-wash","category":"laundry","title":"Before your washing machine’s first wash","excerpt":"From installation checks to choosing a first cycle, get your washer off to a good start.","topic":"setup",
+      "sections":[
+        {"heading":"Confirm installation is complete","paragraphs":["Ask the installer to confirm that the machine is positioned, levelled and connected according to its installation manual. Transport restraints, water connections and drainage differ by model; leave these checks to the installer.","Make sure the manual and accessories have been handed over. Keep the model and serial number somewhere easy to find before the machine becomes harder to access."]},
+        {"heading":"Follow the first-use instructions","paragraphs":["Some manufacturers specify an empty first cycle or a particular preparation routine. Use the instructions for your exact model rather than selecting a programme based on another washing machine.","Use only the detergent type and quantity recommended for the appliance and load. More detergent does not necessarily mean a better wash and may leave excessive suds."]},
+        {"heading":"For your first load","bullets":["Read garment care labels and separate items where required.","Empty pockets and check for loose objects.","Keep within the programme’s load limit; it may be lower than the machine’s maximum capacity.","Choose a programme appropriate for the fabric, then observe the first cycle for unusual movement or leaks."],"note":"If you notice a leak, burning smell or abnormal movement, stop using the machine and contact qualified service support."}
+      ]
+    },
+    {
+      "slug":"air-conditioner-filter-care","category":"cooling","title":"A simple guide to air-conditioner filter care","excerpt":"Keep everyday filter maintenance straightforward, with the right checks for your specific model.","topic":"care",
+      "sections":[
+        {"heading":"Check the manual first","paragraphs":["Not every air-conditioner filter can be washed. Some are replaceable or need specialist maintenance. Identify the user-serviceable filter in the manual before opening a panel or using a cleaning product.","If the unit is out of comfortable reach, arrange maintenance rather than climbing on furniture. Internal electrical and refrigerant components are not part of routine customer cleaning."]},
+        {"heading":"Use the manufacturer’s cleaning method","paragraphs":["Switch off and isolate the unit as its manual directs before user maintenance. For a washable filter, follow the specified removal, cleaning and drying steps. Do not reinstall it while damp or use solvents unless the manufacturer explicitly permits them.","While the filter is removed, inspect it for visible damage. Replace a damaged filter with the correct specified part rather than trimming or improvising a substitute."]},
+        {"heading":"Build a routine that suits the room","bullets":["Follow the inspection interval in the manual, adjusting only as the manufacturer advises for dusty conditions.","Keep air inlets and outlets free of curtains or furniture.","Record the date of cleaning or replacement.","If airflow remains weak or an error persists, request service instead of repeatedly changing settings."],"note":"Filter care is routine maintenance. It does not replace professional servicing or diagnose a cooling fault."}
+      ]
+    },
+    {
+      "slug":"prepare-return-request","category":"kitchen","title":"What to prepare before requesting a return","excerpt":"Bring the right details together so your return enquiry can be reviewed without unnecessary back-and-forth.","topic":"returns",
+      "sections":[
+        {"heading":"Check the policy for your purchase","paragraphs":["Return eligibility depends on the seller’s published terms, purchase date, product condition and reason for return. Review the policy attached to the purchase before packing or sending anything back.","This fictional support portal does not process purchases or approve refunds. The checklist explains the information a support team would normally need; it does not promise eligibility or a return window."]},
+        {"heading":"Describe the issue clearly","bullets":["Provide the order reference, item name and model.","Explain whether the item arrived damaged, differs from the order, has a fault, or is no longer wanted.","Include the delivery date and when you first noticed the issue.","Keep clear photographs of the packaging, label and visible issue where relevant."]},
+        {"heading":"Wait for handling instructions","paragraphs":["Keep accessories, labels and original packaging together. Avoid further use if a fault could make operation unsafe. Do not open the appliance or remove labels to investigate a problem.","Wait for a return reference and agreed collection or shipping instructions before dispatching an item. For heavy appliances, ask the support team to explain how collection will be arranged and who will handle the product."]}
+      ]
+    },
+    {
+      "slug":"connect-tv-and-soundbar","category":"tv-audio","title":"Connecting your TV and soundbar","excerpt":"Find the compatible connection, select the right audio output, and check the basics when sound is missing.","topic":"setup",
+      "sections":[
+        {"heading":"Choose a connection both devices support","paragraphs":["Look at the labelled ports and manuals for both devices. HDMI ARC or eARC requires compatible ports on the TV and soundbar. An optical connection may be an alternative when supported. A normal HDMI input is not necessarily an audio-return connection.","Use cables that meet the manufacturers’ requirements. Turn the devices off before connecting or moving cables, and never force a connector into a port."]},
+        {"heading":"Select the matching output and input","paragraphs":["In the TV’s audio settings, choose the external speaker or audio-return output described in its manual. On the soundbar, select the input matching the connected cable. Device-control settings may also need to be enabled for ARC.","Start at a low volume and play a familiar source. Test a second programme or input to distinguish a connection issue from content that contains no sound."]},
+        {"heading":"If sound is still missing","bullets":["Check mute and volume on both devices.","Confirm the cable is in the specifically labelled ports.","Check that the chosen audio format is supported by the soundbar.","Record both model numbers and the connection type before asking for support."],"note":"Menus vary by model. Use the manufacturer’s instructions before changing advanced settings or resetting either device."}
+      ]
+    },
+    {
+      "slug":"fridge-first-day","category":"refrigeration","title":"Setting up your fridge for its first day","excerpt":"Understand placement, first-use instructions, and the checks to make before storing food.","topic":"setup",
+      "sections":[
+        {"heading":"Use the installation requirements for your model","paragraphs":["A refrigerator needs the ventilation clearance and stable positioning specified by its manufacturer. Ask the installer to confirm the unit is correctly placed and that the doors open without obstruction.","Follow the stated settling period after transport. The correct interval depends on the appliance and how it was moved; there is no single waiting time suitable for every refrigerator."]},
+        {"heading":"Prepare the interior","paragraphs":["Remove packing materials as directed in the manual and check that drawers and shelves are seated correctly. Clean user-accessible interior surfaces using the approved first-use method, then dry them.","Select the initial temperature settings recommended by the manufacturer. Allow the appliance to reach its intended operating condition before adding food; use appropriate temperature guidance for the items you store."]},
+        {"heading":"Keep the first day simple","bullets":["Leave internal air outlets unobstructed.","Avoid loading the refrigerator beyond its recommended capacity.","Check that nothing prevents the door seals from closing.","Keep the manual and purchase record for future support."],"note":"An unusual smell, damage or persistent error deserves a service enquiry. Do not remove covers or adjust internal components yourself."}
+      ]
+    },
+    {
+      "slug":"washing-machine-error-code","category":"laundry","title":"What to do when your washer shows an error","excerpt":"Record the right details and use model-specific guidance before arranging support.","topic":"care",
+      "sections":[
+        {"heading":"Record what you see","paragraphs":["Write down the exact code, including letters, numbers and flashing indicators. Take a photograph of the display if it is safe to do so. Similar-looking codes can mean different things on different models.","Note the programme, load type and point in the cycle when the error appeared. Include whether the door is locked, water is visible, or the machine has stopped responding."]},
+        {"heading":"Check the approved troubleshooting steps","paragraphs":["Consult the troubleshooting section of the manual for the exact model. Follow only the user checks it describes. Do not force a locked door, open a panel, or disconnect a hose while the machine may contain water.","If the manual suggests a restart, follow its timing and procedure. Repeatedly restarting an unresolved fault can make diagnosis harder and is not a substitute for service."]},
+        {"heading":"When to contact support","bullets":["The code returns after the approved user checks.","The manual has no entry for the displayed code.","You notice leaking water, a burning smell, or damaged cables.","A step requires access to internal parts or a specialist tool."],"note":"Keep your model number and error photograph ready. A support team can use them to identify the appropriate service route."}
+      ]
+    },
+    {
+      "slug":"cooling-service-visit","category":"cooling","title":"Preparing for an air-conditioner service visit","excerpt":"Help the technician understand the issue and make the service area accessible.","topic":"warranty",
+      "sections":[
+        {"heading":"Share a useful description","paragraphs":["Describe what has changed: weak airflow, an unusual sound, an error message, or a room that no longer cools as expected. Note when it started and whether the issue is constant or intermittent.","Keep the model number, purchase record and previous service references available. If the visit relates to warranty coverage, confirm the approved service provider with the manufacturer or seller."]},
+        {"heading":"Prepare access safely","bullets":["Move small items away from the indoor unit’s work area.","Explain any restricted access to the outdoor unit before the visit.","Keep pets and children away from the service area.","Leave ladders, electrical isolation and access to difficult locations to the qualified technician."]},
+        {"heading":"Before the visit ends","paragraphs":["Ask for an explanation of the work completed, any recommended follow-up and the service reference. Keep an itemised record of approved work and any replacement parts.","Confirm any maintenance you can perform yourself and which tasks require a professional. Avoid running the unit if the technician has advised that a fault must be addressed first."],"note":"This portal does not book live technicians. Use the service contact provided with your actual appliance."}
+      ]
+    },
+    {
+      "slug":"tv-delivery-checklist","category":"tv-audio","title":"Checking your TV when it arrives","excerpt":"Inspect the packaging and confirm the model before arranging installation.","topic":"delivery",
+      "sections":[
+        {"heading":"Inspect before unpacking","paragraphs":["Compare the model on the packaging with your order. Look for visible damage and document it with the delivery team. Keep the packaging upright as instructed and avoid pressing on the screen area.","Large televisions can require two or more people to handle safely. Follow the manufacturer’s unpacking instructions and arrange appropriate assistance rather than lifting a large display alone."]},
+        {"heading":"Check the included items","bullets":["Remote control and any supplied batteries.","Power cable and the accessories listed in the manual.","Stand components and the correct supplied fasteners, where included.","Purchase paperwork and manufacturer warranty information."]},
+        {"heading":"Plan the installation","paragraphs":["For a wall installation, use a compatible mount and a qualified installer who can assess the wall and fixings. Do not assume a mount from another television is suitable.","Retain the packaging until you have checked the product and resolved any delivery concern. If the screen or casing is visibly damaged, document it and contact the seller before powering it on."],"note":"A missing accessory or damaged package should be recorded promptly through the seller’s actual delivery-support process."}
+      ]
+    },
+    {
+      "slug":"kitchen-appliance-cleaning","category":"kitchen","title":"Keeping small kitchen appliances clean","excerpt":"Build a straightforward cleaning routine while protecting removable parts and electrical components.","topic":"care",
+      "sections":[
+        {"heading":"Identify which parts are removable","paragraphs":["Start with the cleaning instructions for your exact appliance. A removable bowl, basket or lid may need a different method from the main body. Dishwasher-safe markings apply only to the specified parts.","Switch off, unplug and allow the appliance to cool as directed before cleaning. Never immerse a motor base, electrical connector or powered body unless the manufacturer explicitly designs it for that purpose."]},
+        {"heading":"Choose an approved method","paragraphs":["Use the cleaning materials recommended in the manual. Harsh abrasives can damage coatings, and unsuitable chemicals can leave residue on food-contact surfaces. Avoid scraping a coated basket or tray with a metal tool.","Dry parts as instructed before reassembly. Make sure seals and removable components are correctly fitted, with no cleaning cloth or packing material left inside."]},
+        {"heading":"Check before the next use","bullets":["Look for cracks or damage in removable parts.","Keep ventilation openings clear using the approved method.","Check that the power lead is dry and visibly undamaged.","Replace worn parts with the correct specified replacement."],"note":"If liquid enters the electrical body or a cable is damaged, stop using the appliance and ask qualified service support for advice."}
+      ]
+    },
+    {
+      "slug":"damaged-fridge-delivery","category":"refrigeration","title":"If your fridge arrives with visible damage","excerpt":"Document the concern, keep the packaging, and get clear handling instructions before taking the next step.","topic":"returns",
+      "sections":[
+        {"heading":"Make a clear record","paragraphs":["Photograph the packaging and visible damage without moving or dismantling the appliance. Include an overall view and a closer image of the concern. Note the delivery date, order reference and model.","Ask the delivery team to record the issue on their delivery documentation. Keep your copy and any reference number provided. Avoid accepting an explanation as a repair assessment unless it comes from the appropriate service team."]},
+        {"heading":"Keep the appliance and packaging together","paragraphs":["Do not attempt to straighten panels, remove covers or repair a damaged component. Keep accessories and paperwork with the appliance. If damage could affect safe operation, do not switch it on.","Contact the seller through the channel associated with your order and describe the issue. Ask whether an inspection, replacement assessment or collection is required before arranging your own transport."]},
+        {"heading":"Information to include","bullets":["Order reference and recipient contact details.","The model and delivery date.","Photographs and a brief description of the damage.","Any note or reference supplied by the delivery team."],"note":"The outcome depends on the actual seller’s policy and assessment. This guide does not guarantee a refund or replacement."}
+      ]
+    }
+  ]
+}

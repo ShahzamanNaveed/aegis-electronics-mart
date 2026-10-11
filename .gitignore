@@ -1,0 +1,22 @@
+node_modules/
+*.tsbuildinfo
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.env
+*.db
+*.db-shm
+*.db-wal
+.local/
+playwright-report/
+test-results/
+*.egg-info/
+
+
+# Private environment variants and exported credentials
+.env.*
+!.env.example
+*.pem
+*.key

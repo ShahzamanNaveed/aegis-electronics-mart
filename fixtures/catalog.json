@@ -1,0 +1,3604 @@
+{
+  "dataset_version": "mart-1.0",
+  "synthetic": true,
+  "currency": "PKR",
+  "departments": [
+    {
+      "slug": "refrigerators",
+      "name": "Refrigerators",
+      "description": "Fresh food, thoughtfully stored."
+    },
+    {
+      "slug": "washing-machines",
+      "name": "Washing machines",
+      "description": "Laundry that fits your routine."
+    },
+    {
+      "slug": "air-conditioners",
+      "name": "Air conditioners",
+      "description": "Comfort for your corner of the world."
+    },
+    {
+      "slug": "televisions",
+      "name": "Televisions",
+      "description": "Make room for a better view."
+    },
+    {
+      "slug": "kitchen-essentials",
+      "name": "Kitchen essentials",
+      "description": "Little helpers. Big everyday difference."
+    },
+    {
+      "slug": "microwaves-ovens",
+      "name": "Microwaves & ovens",
+      "description": "Quick reheats to weekend bakes."
+    },
+    {
+      "slug": "vacuum-cleaners",
+      "name": "Vacuum cleaners",
+      "description": "A fresh start for every floor."
+    },
+    {
+      "slug": "air-care",
+      "name": "Fans & air care",
+      "description": "A little more comfort in your space."
+    },
+    {
+      "slug": "smartphones",
+      "name": "Smartphones",
+      "description": "Your everyday, connected."
+    },
+    {
+      "slug": "laptops",
+      "name": "Laptops",
+      "description": "Space to work. Power to create."
+    },
+    {
+      "slug": "audio",
+      "name": "Audio",
+      "description": "A soundtrack for every room."
+    },
+    {
+      "slug": "accessories",
+      "name": "Accessories",
+      "description": "The small things that bring it together."
+    }
+  ],
+  "products": [
+    {
+      "slug": "refrigerators-compact-180",
+      "sku": "AE-01-001",
+      "department": "refrigerators",
+      "name": "Aegis North Compact 180",
+      "brand": "Aegis North",
+      "summary": "180 L · Direct cool · Single door",
+      "description": "Aegis North Compact 180 is part of the refrigerators collection. Designed around clear storage zones for fresh ingredients, drinks, and frozen food. Adjustable shelves help make space for taller containers. Choose by usable capacity and the space around the door, not cabinet width alone. Its distinguishing specifications are 180 l · direct cool · single door. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 5490000,
+      "stock": 0,
+      "color": "Warm white",
+      "features": [
+        "180 L capacity",
+        "Direct cool cooling system",
+        "Single door layout"
+      ],
+      "specifications": {
+        "Capacity": "180 L",
+        "Cooling system": "Direct cool",
+        "Layout": "Single door",
+        "Dimensions (W × D × H)": "52 × 55 × 120 cm",
+        "Compressor": "Fixed speed"
+      },
+      "in_box": [
+        "Refrigerator",
+        "Adjustable shelves",
+        "Ice tray",
+        "User guide"
+      ],
+      "compatibility": "Requires an earthed 220–240 V supply. Allow ventilation clearance specified in the supplied installation guide. No external water connection is required.",
+      "care": [
+        "Wipe removable shelves with mild detergent and dry thoroughly.",
+        "Keep door seals clean and check for trapped packaging.",
+        "Do not use sharp tools to remove ice."
+      ],
+      "faqs": [
+        {
+          "question": "Will the door fit through my entrance?",
+          "answer": "Compare the listed cabinet dimensions with every doorway and stair turn. These dimensions exclude protective packaging; allow additional handling clearance."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "fridge-first-day",
+        "prepare-for-appliance-delivery",
+        "damaged-fridge-delivery"
+      ],
+      "featured_order": 0,
+      "published": true
+    },
+    {
+      "slug": "refrigerators-fresh-260",
+      "sku": "AE-01-002",
+      "department": "refrigerators",
+      "name": "Aegis North Fresh 260",
+      "brand": "Aegis North",
+      "summary": "260 L · Direct cool · Top freezer",
+      "description": "Aegis North Fresh 260 is part of the refrigerators collection. Designed around clear storage zones for fresh ingredients, drinks, and frozen food. Adjustable shelves help make space for taller containers. Choose by usable capacity and the space around the door, not cabinet width alone. Its distinguishing specifications are 260 l · direct cool · top freezer. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 7890000,
+      "stock": 4,
+      "color": "Graphite",
+      "features": [
+        "260 L capacity",
+        "Direct cool cooling system",
+        "Top freezer layout"
+      ],
+      "specifications": {
+        "Capacity": "260 L",
+        "Cooling system": "Direct cool",
+        "Layout": "Top freezer",
+        "Dimensions (W × D × H)": "55 × 60 × 155 cm",
+        "Compressor": "Fixed speed"
+      },
+      "in_box": [
+        "Refrigerator",
+        "Adjustable shelves",
+        "Ice tray",
+        "User guide"
+      ],
+      "compatibility": "Requires an earthed 220–240 V supply. Allow ventilation clearance specified in the supplied installation guide. No external water connection is required.",
+      "care": [
+        "Wipe removable shelves with mild detergent and dry thoroughly.",
+        "Keep door seals clean and check for trapped packaging.",
+        "Do not use sharp tools to remove ice."
+      ],
+      "faqs": [
+        {
+          "question": "Will the door fit through my entrance?",
+          "answer": "Compare the listed cabinet dimensions with every doorway and stair turn. These dimensions exclude protective packaging; allow additional handling clearance."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "fridge-first-day",
+        "prepare-for-appliance-delivery",
+        "damaged-fridge-delivery"
+      ],
+      "featured_order": 12,
+      "published": true
+    },
+    {
+      "slug": "refrigerators-family-350",
+      "sku": "AE-01-003",
+      "department": "refrigerators",
+      "name": "Aegis North Family 350",
+      "brand": "Aegis North",
+      "summary": "350 L · Frost free · Top freezer",
+      "description": "Aegis North Family 350 is part of the refrigerators collection. Designed around clear storage zones for fresh ingredients, drinks, and frozen food. Adjustable shelves help make space for taller containers. Choose by usable capacity and the space around the door, not cabinet width alone. Its distinguishing specifications are 350 l · frost free · top freezer. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 11290000,
+      "stock": 5,
+      "color": "Silver",
+      "features": [
+        "350 L capacity",
+        "Frost free cooling system",
+        "Top freezer layout"
+      ],
+      "specifications": {
+        "Capacity": "350 L",
+        "Cooling system": "Frost free",
+        "Layout": "Top freezer",
+        "Dimensions (W × D × H)": "60 × 65 × 170 cm",
+        "Compressor": "Inverter"
+      },
+      "in_box": [
+        "Refrigerator",
+        "Adjustable shelves",
+        "Ice tray",
+        "User guide"
+      ],
+      "compatibility": "Requires an earthed 220–240 V supply. Allow ventilation clearance specified in the supplied installation guide. No external water connection is required.",
+      "care": [
+        "Wipe removable shelves with mild detergent and dry thoroughly.",
+        "Keep door seals clean and check for trapped packaging.",
+        "Do not use sharp tools to remove ice."
+      ],
+      "faqs": [
+        {
+          "question": "Will the door fit through my entrance?",
+          "answer": "Compare the listed cabinet dimensions with every doorway and stair turn. These dimensions exclude protective packaging; allow additional handling clearance."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "fridge-first-day",
+        "prepare-for-appliance-delivery",
+        "damaged-fridge-delivery"
+      ],
+      "featured_order": 24,
+      "published": true
+    },
+    {
+      "slug": "refrigerators-space-450",
+      "sku": "AE-01-004",
+      "department": "refrigerators",
+      "name": "Aegis North Space 450",
+      "brand": "Aegis North",
+      "summary": "450 L · Frost free · Bottom freezer",
+      "description": "Aegis North Space 450 is part of the refrigerators collection. Designed around clear storage zones for fresh ingredients, drinks, and frozen food. Adjustable shelves help make space for taller containers. Choose by usable capacity and the space around the door, not cabinet width alone. Its distinguishing specifications are 450 l · frost free · bottom freezer. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 15990000,
+      "stock": 6,
+      "color": "Sage",
+      "features": [
+        "450 L capacity",
+        "Frost free cooling system",
+        "Bottom freezer layout"
+      ],
+      "specifications": {
+        "Capacity": "450 L",
+        "Cooling system": "Frost free",
+        "Layout": "Bottom freezer",
+        "Dimensions (W × D × H)": "70 × 70 × 180 cm",
+        "Compressor": "Inverter"
+      },
+      "in_box": [
+        "Refrigerator",
+        "Adjustable shelves",
+        "Ice tray",
+        "User guide"
+      ],
+      "compatibility": "Requires an earthed 220–240 V supply. Allow ventilation clearance specified in the supplied installation guide. No external water connection is required.",
+      "care": [
+        "Wipe removable shelves with mild detergent and dry thoroughly.",
+        "Keep door seals clean and check for trapped packaging.",
+        "Do not use sharp tools to remove ice."
+      ],
+      "faqs": [
+        {
+          "question": "Will the door fit through my entrance?",
+          "answer": "Compare the listed cabinet dimensions with every doorway and stair turn. These dimensions exclude protective packaging; allow additional handling clearance."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "fridge-first-day",
+        "prepare-for-appliance-delivery",
+        "damaged-fridge-delivery"
+      ],
+      "featured_order": 36,
+      "published": true
+    },
+    {
+      "slug": "refrigerators-pantry-560",
+      "sku": "AE-01-005",
+      "department": "refrigerators",
+      "name": "Aegis North Pantry 560",
+      "brand": "Aegis North",
+      "summary": "560 L · Dual-zone frost free · Side by side",
+      "description": "Aegis North Pantry 560 is part of the refrigerators collection. Designed around clear storage zones for fresh ingredients, drinks, and frozen food. Adjustable shelves help make space for taller containers. Choose by usable capacity and the space around the door, not cabinet width alone. Its distinguishing specifications are 560 l · dual-zone frost free · side by side. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 21990000,
+      "stock": 7,
+      "color": "Midnight",
+      "features": [
+        "560 L capacity",
+        "Dual-zone frost free cooling system",
+        "Side by side layout"
+      ],
+      "specifications": {
+        "Capacity": "560 L",
+        "Cooling system": "Dual-zone frost free",
+        "Layout": "Side by side",
+        "Dimensions (W × D × H)": "90 × 70 × 178 cm",
+        "Compressor": "Inverter"
+      },
+      "in_box": [
+        "Refrigerator",
+        "Adjustable shelves",
+        "Ice tray",
+        "User guide"
+      ],
+      "compatibility": "Requires an earthed 220–240 V supply. Allow ventilation clearance specified in the supplied installation guide. No external water connection is required.",
+      "care": [
+        "Wipe removable shelves with mild detergent and dry thoroughly.",
+        "Keep door seals clean and check for trapped packaging.",
+        "Do not use sharp tools to remove ice."
+      ],
+      "faqs": [
+        {
+          "question": "Will the door fit through my entrance?",
+          "answer": "Compare the listed cabinet dimensions with every doorway and stair turn. These dimensions exclude protective packaging; allow additional handling clearance."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "fridge-first-day",
+        "prepare-for-appliance-delivery",
+        "damaged-fridge-delivery"
+      ],
+      "featured_order": 48,
+      "published": true
+    },
+    {
+      "slug": "washing-machines-twin-7",
+      "sku": "AE-02-001",
+      "department": "washing-machines",
+      "name": "Aegis Flow Twin 7",
+      "brand": "Aegis Flow",
+      "summary": "7 kg · Semi-automatic twin tub · 800 rpm",
+      "description": "Aegis Flow Twin 7 is part of the washing machines collection. A range for smaller loads, busy family routines, and space-conscious laundry rooms. Capacity describes dry cotton weight; bulky fabrics may require smaller loads. Each model has clearly labelled controls and a removable detergent compartment. Its distinguishing specifications are 7 kg · semi-automatic twin tub · 800 rpm. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 4290000,
+      "stock": 6,
+      "color": "Warm white",
+      "features": [
+        "7 kg wash capacity",
+        "Semi-automatic twin tub type",
+        "800 rpm maximum spin"
+      ],
+      "specifications": {
+        "Wash capacity": "7 kg",
+        "Type": "Semi-automatic twin tub",
+        "Maximum spin": "800 rpm",
+        "Programs": "3",
+        "Drying capacity": "Not included"
+      },
+      "in_box": [
+        "Washing machine",
+        "Inlet hose",
+        "Drain hose",
+        "Installation guide"
+      ],
+      "compatibility": "Requires a stable level floor, compatible cold-water inlet, drain connection, and earthed 220–240 V outlet. Washer-dryer drying capacity is lower than its wash capacity.",
+      "care": [
+        "Leave the drum and dispenser open briefly after use.",
+        "Clean the accessible filter only as described in the manual.",
+        "Use detergent appropriate to the machine type."
+      ],
+      "faqs": [
+        {
+          "question": "Can it wash and dry the same full load?",
+          "answer": "Only the WashDry model includes heated drying. Its drying capacity is 6 kg, so a full 10 kg wash load must be reduced before drying."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "washing-machine-first-wash",
+        "washing-machine-error-code"
+      ],
+      "featured_order": 1,
+      "published": true
+    },
+    {
+      "slug": "washing-machines-daily-8",
+      "sku": "AE-02-002",
+      "department": "washing-machines",
+      "name": "Aegis Flow Daily 8",
+      "brand": "Aegis Flow",
+      "summary": "8 kg · Top load · 900 rpm",
+      "description": "Aegis Flow Daily 8 is part of the washing machines collection. A range for smaller loads, busy family routines, and space-conscious laundry rooms. Capacity describes dry cotton weight; bulky fabrics may require smaller loads. Each model has clearly labelled controls and a removable detergent compartment. Its distinguishing specifications are 8 kg · top load · 900 rpm. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 6490000,
+      "stock": 7,
+      "color": "Graphite",
+      "features": [
+        "8 kg wash capacity",
+        "Top load type",
+        "900 rpm maximum spin"
+      ],
+      "specifications": {
+        "Wash capacity": "8 kg",
+        "Type": "Top load",
+        "Maximum spin": "900 rpm",
+        "Programs": "8",
+        "Drying capacity": "Not included"
+      },
+      "in_box": [
+        "Washing machine",
+        "Inlet hose",
+        "Drain hose",
+        "Installation guide"
+      ],
+      "compatibility": "Requires a stable level floor, compatible cold-water inlet, drain connection, and earthed 220–240 V outlet. Washer-dryer drying capacity is lower than its wash capacity.",
+      "care": [
+        "Leave the drum and dispenser open briefly after use.",
+        "Clean the accessible filter only as described in the manual.",
+        "Use detergent appropriate to the machine type."
+      ],
+      "faqs": [
+        {
+          "question": "Can it wash and dry the same full load?",
+          "answer": "Only the WashDry model includes heated drying. Its drying capacity is 6 kg, so a full 10 kg wash load must be reduced before drying."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "washing-machine-first-wash",
+        "washing-machine-error-code"
+      ],
+      "featured_order": 13,
+      "published": true
+    },
+    {
+      "slug": "washing-machines-front-8",
+      "sku": "AE-02-003",
+      "department": "washing-machines",
+      "name": "Aegis Flow Front 8",
+      "brand": "Aegis Flow",
+      "summary": "8 kg · Front load · 1200 rpm",
+      "description": "Aegis Flow Front 8 is part of the washing machines collection. A range for smaller loads, busy family routines, and space-conscious laundry rooms. Capacity describes dry cotton weight; bulky fabrics may require smaller loads. Each model has clearly labelled controls and a removable detergent compartment. Its distinguishing specifications are 8 kg · front load · 1200 rpm. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 10490000,
+      "stock": 8,
+      "color": "Silver",
+      "features": [
+        "8 kg wash capacity",
+        "Front load type",
+        "1200 rpm maximum spin"
+      ],
+      "specifications": {
+        "Wash capacity": "8 kg",
+        "Type": "Front load",
+        "Maximum spin": "1200 rpm",
+        "Programs": "12",
+        "Drying capacity": "Not included"
+      },
+      "in_box": [
+        "Washing machine",
+        "Inlet hose",
+        "Drain hose",
+        "Installation guide"
+      ],
+      "compatibility": "Requires a stable level floor, compatible cold-water inlet, drain connection, and earthed 220–240 V outlet. Washer-dryer drying capacity is lower than its wash capacity.",
+      "care": [
+        "Leave the drum and dispenser open briefly after use.",
+        "Clean the accessible filter only as described in the manual.",
+        "Use detergent appropriate to the machine type."
+      ],
+      "faqs": [
+        {
+          "question": "Can it wash and dry the same full load?",
+          "answer": "Only the WashDry model includes heated drying. Its drying capacity is 6 kg, so a full 10 kg wash load must be reduced before drying."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "washing-machine-first-wash",
+        "washing-machine-error-code"
+      ],
+      "featured_order": 25,
+      "published": true
+    },
+    {
+      "slug": "washing-machines-steam-9",
+      "sku": "AE-02-004",
+      "department": "washing-machines",
+      "name": "Aegis Flow Steam 9",
+      "brand": "Aegis Flow",
+      "summary": "9 kg · Front load with steam · 1400 rpm",
+      "description": "Aegis Flow Steam 9 is part of the washing machines collection. A range for smaller loads, busy family routines, and space-conscious laundry rooms. Capacity describes dry cotton weight; bulky fabrics may require smaller loads. Each model has clearly labelled controls and a removable detergent compartment. Its distinguishing specifications are 9 kg · front load with steam · 1400 rpm. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 13490000,
+      "stock": 9,
+      "color": "Sage",
+      "features": [
+        "9 kg wash capacity",
+        "Front load with steam type",
+        "1400 rpm maximum spin"
+      ],
+      "specifications": {
+        "Wash capacity": "9 kg",
+        "Type": "Front load with steam",
+        "Maximum spin": "1400 rpm",
+        "Programs": "14",
+        "Drying capacity": "Not included"
+      },
+      "in_box": [
+        "Washing machine",
+        "Inlet hose",
+        "Drain hose",
+        "Installation guide"
+      ],
+      "compatibility": "Requires a stable level floor, compatible cold-water inlet, drain connection, and earthed 220–240 V outlet. Washer-dryer drying capacity is lower than its wash capacity.",
+      "care": [
+        "Leave the drum and dispenser open briefly after use.",
+        "Clean the accessible filter only as described in the manual.",
+        "Use detergent appropriate to the machine type."
+      ],
+      "faqs": [
+        {
+          "question": "Can it wash and dry the same full load?",
+          "answer": "Only the WashDry model includes heated drying. Its drying capacity is 6 kg, so a full 10 kg wash load must be reduced before drying."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "washing-machine-first-wash",
+        "washing-machine-error-code"
+      ],
+      "featured_order": 37,
+      "published": true
+    },
+    {
+      "slug": "washing-machines-washdry-10",
+      "sku": "AE-02-005",
+      "department": "washing-machines",
+      "name": "Aegis Flow WashDry 10",
+      "brand": "Aegis Flow",
+      "summary": "10 kg · Washer dryer · 1400 rpm",
+      "description": "Aegis Flow WashDry 10 is part of the washing machines collection. A range for smaller loads, busy family routines, and space-conscious laundry rooms. Capacity describes dry cotton weight; bulky fabrics may require smaller loads. Each model has clearly labelled controls and a removable detergent compartment. Its distinguishing specifications are 10 kg · washer dryer · 1400 rpm. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 18990000,
+      "stock": 10,
+      "color": "Midnight",
+      "features": [
+        "10 kg wash capacity",
+        "Washer dryer type",
+        "1400 rpm maximum spin"
+      ],
+      "specifications": {
+        "Wash capacity": "10 kg",
+        "Type": "Washer dryer",
+        "Maximum spin": "1400 rpm",
+        "Programs": "16",
+        "Drying capacity": "6 kg"
+      },
+      "in_box": [
+        "Washing machine",
+        "Inlet hose",
+        "Drain hose",
+        "Installation guide"
+      ],
+      "compatibility": "Requires a stable level floor, compatible cold-water inlet, drain connection, and earthed 220–240 V outlet. Washer-dryer drying capacity is lower than its wash capacity.",
+      "care": [
+        "Leave the drum and dispenser open briefly after use.",
+        "Clean the accessible filter only as described in the manual.",
+        "Use detergent appropriate to the machine type."
+      ],
+      "faqs": [
+        {
+          "question": "Can it wash and dry the same full load?",
+          "answer": "Only the WashDry model includes heated drying. Its drying capacity is 6 kg, so a full 10 kg wash load must be reduced before drying."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "washing-machine-first-wash",
+        "washing-machine-error-code"
+      ],
+      "featured_order": 49,
+      "published": true
+    },
+    {
+      "slug": "air-conditioners-lite-1-0",
+      "sku": "AE-03-001",
+      "department": "air-conditioners",
+      "name": "Aegis Breeze Lite 1.0",
+      "brand": "Aegis Breeze",
+      "summary": "1 ton · Fixed speed · Cooling only",
+      "description": "Aegis Breeze Lite 1.0 is part of the air conditioners collection. Wall-mounted split systems for consistent indoor comfort. Select capacity after considering room size, sunlight, insulation, and occupancy. The listed capacity is a comparison value, not a guarantee of suitability for every room. Its distinguishing specifications are 1 ton · fixed speed · cooling only. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 8990000,
+      "stock": 9,
+      "color": "Warm white",
+      "features": [
+        "1 ton capacity",
+        "Fixed speed compressor",
+        "Cooling only mode"
+      ],
+      "specifications": {
+        "Capacity": "1 ton",
+        "Compressor": "Fixed speed",
+        "Mode": "Cooling only",
+        "Controls": "Infrared remote",
+        "Indoor width": "78 cm"
+      },
+      "in_box": [
+        "Indoor unit",
+        "Outdoor unit",
+        "Remote control",
+        "Mounting plate",
+        "User guide"
+      ],
+      "compatibility": "Professional installation and a suitable dedicated electrical circuit are required. Wi-Fi models support 2.4 GHz networks only. Pipework length and installation materials must be assessed separately.",
+      "care": [
+        "Switch off the unit before removing user-accessible filters.",
+        "Dry washed filters completely before refitting.",
+        "Leave refrigerant and electrical work to qualified technicians."
+      ],
+      "faqs": [
+        {
+          "question": "Is installation included in the displayed price?",
+          "answer": "No. This dataset separates the appliance price from site-dependent installation, additional copper piping, and electrical work."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "air-conditioner-filter-care",
+        "cooling-service-visit"
+      ],
+      "featured_order": 2,
+      "published": true
+    },
+    {
+      "slug": "air-conditioners-inverter-1-0",
+      "sku": "AE-03-002",
+      "department": "air-conditioners",
+      "name": "Aegis Breeze Inverter 1.0",
+      "brand": "Aegis Breeze",
+      "summary": "1 ton · Inverter · Cooling only",
+      "description": "Aegis Breeze Inverter 1.0 is part of the air conditioners collection. Wall-mounted split systems for consistent indoor comfort. Select capacity after considering room size, sunlight, insulation, and occupancy. The listed capacity is a comparison value, not a guarantee of suitability for every room. Its distinguishing specifications are 1 ton · inverter · cooling only. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 11490000,
+      "stock": 10,
+      "color": "Graphite",
+      "features": [
+        "1 ton capacity",
+        "Inverter compressor",
+        "Cooling only mode"
+      ],
+      "specifications": {
+        "Capacity": "1 ton",
+        "Compressor": "Inverter",
+        "Mode": "Cooling only",
+        "Controls": "Infrared remote",
+        "Indoor width": "80 cm"
+      },
+      "in_box": [
+        "Indoor unit",
+        "Outdoor unit",
+        "Remote control",
+        "Mounting plate",
+        "User guide"
+      ],
+      "compatibility": "Professional installation and a suitable dedicated electrical circuit are required. Wi-Fi models support 2.4 GHz networks only. Pipework length and installation materials must be assessed separately.",
+      "care": [
+        "Switch off the unit before removing user-accessible filters.",
+        "Dry washed filters completely before refitting.",
+        "Leave refrigerant and electrical work to qualified technicians."
+      ],
+      "faqs": [
+        {
+          "question": "Is installation included in the displayed price?",
+          "answer": "No. This dataset separates the appliance price from site-dependent installation, additional copper piping, and electrical work."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "air-conditioner-filter-care",
+        "cooling-service-visit"
+      ],
+      "featured_order": 14,
+      "published": true
+    },
+    {
+      "slug": "air-conditioners-comfort-1-5",
+      "sku": "AE-03-003",
+      "department": "air-conditioners",
+      "name": "Aegis Breeze Comfort 1.5",
+      "brand": "Aegis Breeze",
+      "summary": "1.5 ton · Inverter · Heat and cool",
+      "description": "Aegis Breeze Comfort 1.5 is part of the air conditioners collection. Wall-mounted split systems for consistent indoor comfort. Select capacity after considering room size, sunlight, insulation, and occupancy. The listed capacity is a comparison value, not a guarantee of suitability for every room. Its distinguishing specifications are 1.5 ton · inverter · heat and cool. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 14490000,
+      "stock": 11,
+      "color": "Silver",
+      "features": [
+        "1.5 ton capacity",
+        "Inverter compressor",
+        "Heat and cool mode"
+      ],
+      "specifications": {
+        "Capacity": "1.5 ton",
+        "Compressor": "Inverter",
+        "Mode": "Heat and cool",
+        "Controls": "Infrared remote",
+        "Indoor width": "92 cm"
+      },
+      "in_box": [
+        "Indoor unit",
+        "Outdoor unit",
+        "Remote control",
+        "Mounting plate",
+        "User guide"
+      ],
+      "compatibility": "Professional installation and a suitable dedicated electrical circuit are required. Wi-Fi models support 2.4 GHz networks only. Pipework length and installation materials must be assessed separately.",
+      "care": [
+        "Switch off the unit before removing user-accessible filters.",
+        "Dry washed filters completely before refitting.",
+        "Leave refrigerant and electrical work to qualified technicians."
+      ],
+      "faqs": [
+        {
+          "question": "Is installation included in the displayed price?",
+          "answer": "No. This dataset separates the appliance price from site-dependent installation, additional copper piping, and electrical work."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "air-conditioner-filter-care",
+        "cooling-service-visit"
+      ],
+      "featured_order": 26,
+      "published": true
+    },
+    {
+      "slug": "air-conditioners-plus-1-5",
+      "sku": "AE-03-004",
+      "department": "air-conditioners",
+      "name": "Aegis Breeze Plus 1.5",
+      "brand": "Aegis Breeze",
+      "summary": "1.5 ton · Inverter · Heat and cool",
+      "description": "Aegis Breeze Plus 1.5 is part of the air conditioners collection. Wall-mounted split systems for consistent indoor comfort. Select capacity after considering room size, sunlight, insulation, and occupancy. The listed capacity is a comparison value, not a guarantee of suitability for every room. Its distinguishing specifications are 1.5 ton · inverter · heat and cool. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 16990000,
+      "stock": 12,
+      "color": "Sage",
+      "features": [
+        "1.5 ton capacity",
+        "Inverter compressor",
+        "Heat and cool mode"
+      ],
+      "specifications": {
+        "Capacity": "1.5 ton",
+        "Compressor": "Inverter",
+        "Mode": "Heat and cool",
+        "Controls": "Remote + 2.4 GHz Wi-Fi",
+        "Indoor width": "94 cm"
+      },
+      "in_box": [
+        "Indoor unit",
+        "Outdoor unit",
+        "Remote control",
+        "Mounting plate",
+        "User guide"
+      ],
+      "compatibility": "Professional installation and a suitable dedicated electrical circuit are required. Wi-Fi models support 2.4 GHz networks only. Pipework length and installation materials must be assessed separately.",
+      "care": [
+        "Switch off the unit before removing user-accessible filters.",
+        "Dry washed filters completely before refitting.",
+        "Leave refrigerant and electrical work to qualified technicians."
+      ],
+      "faqs": [
+        {
+          "question": "Is installation included in the displayed price?",
+          "answer": "No. This dataset separates the appliance price from site-dependent installation, additional copper piping, and electrical work."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "air-conditioner-filter-care",
+        "cooling-service-visit"
+      ],
+      "featured_order": 38,
+      "published": true
+    },
+    {
+      "slug": "air-conditioners-studio-2-0",
+      "sku": "AE-03-005",
+      "department": "air-conditioners",
+      "name": "Aegis Breeze Studio 2.0",
+      "brand": "Aegis Breeze",
+      "summary": "2 ton · Inverter · Heat and cool",
+      "description": "Aegis Breeze Studio 2.0 is part of the air conditioners collection. Wall-mounted split systems for consistent indoor comfort. Select capacity after considering room size, sunlight, insulation, and occupancy. The listed capacity is a comparison value, not a guarantee of suitability for every room. Its distinguishing specifications are 2 ton · inverter · heat and cool. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 21490000,
+      "stock": 13,
+      "color": "Midnight",
+      "features": [
+        "2 ton capacity",
+        "Inverter compressor",
+        "Heat and cool mode"
+      ],
+      "specifications": {
+        "Capacity": "2 ton",
+        "Compressor": "Inverter",
+        "Mode": "Heat and cool",
+        "Controls": "Remote + 2.4 GHz Wi-Fi",
+        "Indoor width": "108 cm"
+      },
+      "in_box": [
+        "Indoor unit",
+        "Outdoor unit",
+        "Remote control",
+        "Mounting plate",
+        "User guide"
+      ],
+      "compatibility": "Professional installation and a suitable dedicated electrical circuit are required. Wi-Fi models support 2.4 GHz networks only. Pipework length and installation materials must be assessed separately.",
+      "care": [
+        "Switch off the unit before removing user-accessible filters.",
+        "Dry washed filters completely before refitting.",
+        "Leave refrigerant and electrical work to qualified technicians."
+      ],
+      "faqs": [
+        {
+          "question": "Is installation included in the displayed price?",
+          "answer": "No. This dataset separates the appliance price from site-dependent installation, additional copper piping, and electrical work."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "air-conditioner-filter-care",
+        "cooling-service-visit"
+      ],
+      "featured_order": 50,
+      "published": true
+    },
+    {
+      "slug": "televisions-essential-32",
+      "sku": "AE-04-001",
+      "department": "televisions",
+      "name": "Aegis View Essential 32",
+      "brand": "Aegis View",
+      "summary": "32 inch · 1366 × 768 · LED LCD",
+      "description": "Aegis View Essential 32 is part of the televisions collection. Screens for compact bedrooms, everyday viewing, and shared movie nights. Resolution and refresh rate vary by model. External streaming subscriptions and internet service are separate from the display hardware. Its distinguishing specifications are 32 inch · 1366 × 768 · led lcd. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3290000,
+      "stock": 12,
+      "color": "Warm white",
+      "features": [
+        "32 inch screen size",
+        "1366 × 768 resolution",
+        "LED LCD panel"
+      ],
+      "specifications": {
+        "Screen size": "32 inch",
+        "Resolution": "1366 × 768",
+        "Panel": "LED LCD",
+        "Refresh rate": "60 Hz",
+        "HDMI ports": "2",
+        "Audio return": "ARC"
+      },
+      "in_box": [
+        "Television",
+        "Table stand",
+        "Remote control",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Supports HDMI source devices. Wall brackets must match the model mounting pattern and rated load. A suitable high-bandwidth HDMI cable is needed for higher-resolution high-refresh sources.",
+      "care": [
+        "Clean the screen using a dry soft microfiber cloth.",
+        "Do not spray liquid directly onto the panel.",
+        "Support the cabinet, not the screen, when moving it."
+      ],
+      "faqs": [
+        {
+          "question": "Can I connect an existing soundbar?",
+          "answer": "Use the labelled ARC or eARC HDMI connection if the soundbar supports it. Match the TV audio-output setting to the connected device."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "tv-delivery-checklist"
+      ],
+      "featured_order": 3,
+      "published": true
+    },
+    {
+      "slug": "televisions-fullview-43",
+      "sku": "AE-04-002",
+      "department": "televisions",
+      "name": "Aegis View FullView 43",
+      "brand": "Aegis View",
+      "summary": "43 inch · 1920 × 1080 · LED LCD",
+      "description": "Aegis View FullView 43 is part of the televisions collection. Screens for compact bedrooms, everyday viewing, and shared movie nights. Resolution and refresh rate vary by model. External streaming subscriptions and internet service are separate from the display hardware. Its distinguishing specifications are 43 inch · 1920 × 1080 · led lcd. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 6190000,
+      "stock": 13,
+      "color": "Graphite",
+      "features": [
+        "43 inch screen size",
+        "1920 × 1080 resolution",
+        "LED LCD panel"
+      ],
+      "specifications": {
+        "Screen size": "43 inch",
+        "Resolution": "1920 × 1080",
+        "Panel": "LED LCD",
+        "Refresh rate": "60 Hz",
+        "HDMI ports": "2",
+        "Audio return": "ARC"
+      },
+      "in_box": [
+        "Television",
+        "Table stand",
+        "Remote control",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Supports HDMI source devices. Wall brackets must match the model mounting pattern and rated load. A suitable high-bandwidth HDMI cable is needed for higher-resolution high-refresh sources.",
+      "care": [
+        "Clean the screen using a dry soft microfiber cloth.",
+        "Do not spray liquid directly onto the panel.",
+        "Support the cabinet, not the screen, when moving it."
+      ],
+      "faqs": [
+        {
+          "question": "Can I connect an existing soundbar?",
+          "answer": "Use the labelled ARC or eARC HDMI connection if the soundbar supports it. Match the TV audio-output setting to the connected device."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "tv-delivery-checklist"
+      ],
+      "featured_order": 15,
+      "published": true
+    },
+    {
+      "slug": "televisions-cinema-50",
+      "sku": "AE-04-003",
+      "department": "televisions",
+      "name": "Aegis View Cinema 50",
+      "brand": "Aegis View",
+      "summary": "50 inch · 3840 × 2160 · LED LCD",
+      "description": "Aegis View Cinema 50 is part of the televisions collection. Screens for compact bedrooms, everyday viewing, and shared movie nights. Resolution and refresh rate vary by model. External streaming subscriptions and internet service are separate from the display hardware. Its distinguishing specifications are 50 inch · 3840 × 2160 · led lcd. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 9490000,
+      "stock": 14,
+      "color": "Silver",
+      "features": [
+        "50 inch screen size",
+        "3840 × 2160 resolution",
+        "LED LCD panel"
+      ],
+      "specifications": {
+        "Screen size": "50 inch",
+        "Resolution": "3840 × 2160",
+        "Panel": "LED LCD",
+        "Refresh rate": "60 Hz",
+        "HDMI ports": "3",
+        "Audio return": "eARC"
+      },
+      "in_box": [
+        "Television",
+        "Table stand",
+        "Remote control",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Supports HDMI source devices. Wall brackets must match the model mounting pattern and rated load. A suitable high-bandwidth HDMI cable is needed for higher-resolution high-refresh sources.",
+      "care": [
+        "Clean the screen using a dry soft microfiber cloth.",
+        "Do not spray liquid directly onto the panel.",
+        "Support the cabinet, not the screen, when moving it."
+      ],
+      "faqs": [
+        {
+          "question": "Can I connect an existing soundbar?",
+          "answer": "Use the labelled ARC or eARC HDMI connection if the soundbar supports it. Match the TV audio-output setting to the connected device."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "tv-delivery-checklist"
+      ],
+      "featured_order": 27,
+      "published": true
+    },
+    {
+      "slug": "televisions-quantum-55",
+      "sku": "AE-04-004",
+      "department": "televisions",
+      "name": "Aegis View Quantum 55",
+      "brand": "Aegis View",
+      "summary": "55 inch · 3840 × 2160 · Quantum-dot LCD",
+      "description": "Aegis View Quantum 55 is part of the televisions collection. Screens for compact bedrooms, everyday viewing, and shared movie nights. Resolution and refresh rate vary by model. External streaming subscriptions and internet service are separate from the display hardware. Its distinguishing specifications are 55 inch · 3840 × 2160 · quantum-dot lcd. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 14490000,
+      "stock": 15,
+      "color": "Sage",
+      "features": [
+        "55 inch screen size",
+        "3840 × 2160 resolution",
+        "Quantum-dot LCD panel"
+      ],
+      "specifications": {
+        "Screen size": "55 inch",
+        "Resolution": "3840 × 2160",
+        "Panel": "Quantum-dot LCD",
+        "Refresh rate": "120 Hz",
+        "HDMI ports": "4",
+        "Audio return": "eARC"
+      },
+      "in_box": [
+        "Television",
+        "Table stand",
+        "Remote control",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Supports HDMI source devices. Wall brackets must match the model mounting pattern and rated load. A suitable high-bandwidth HDMI cable is needed for higher-resolution high-refresh sources.",
+      "care": [
+        "Clean the screen using a dry soft microfiber cloth.",
+        "Do not spray liquid directly onto the panel.",
+        "Support the cabinet, not the screen, when moving it."
+      ],
+      "faqs": [
+        {
+          "question": "Can I connect an existing soundbar?",
+          "answer": "Use the labelled ARC or eARC HDMI connection if the soundbar supports it. Match the TV audio-output setting to the connected device."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "tv-delivery-checklist"
+      ],
+      "featured_order": 39,
+      "published": true
+    },
+    {
+      "slug": "televisions-theatre-65",
+      "sku": "AE-04-005",
+      "department": "televisions",
+      "name": "Aegis View Theatre 65",
+      "brand": "Aegis View",
+      "summary": "65 inch · 3840 × 2160 · Quantum-dot LCD",
+      "description": "Aegis View Theatre 65 is part of the televisions collection. Screens for compact bedrooms, everyday viewing, and shared movie nights. Resolution and refresh rate vary by model. External streaming subscriptions and internet service are separate from the display hardware. Its distinguishing specifications are 65 inch · 3840 × 2160 · quantum-dot lcd. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 20990000,
+      "stock": 0,
+      "color": "Midnight",
+      "features": [
+        "65 inch screen size",
+        "3840 × 2160 resolution",
+        "Quantum-dot LCD panel"
+      ],
+      "specifications": {
+        "Screen size": "65 inch",
+        "Resolution": "3840 × 2160",
+        "Panel": "Quantum-dot LCD",
+        "Refresh rate": "120 Hz",
+        "HDMI ports": "4",
+        "Audio return": "eARC"
+      },
+      "in_box": [
+        "Television",
+        "Table stand",
+        "Remote control",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Supports HDMI source devices. Wall brackets must match the model mounting pattern and rated load. A suitable high-bandwidth HDMI cable is needed for higher-resolution high-refresh sources.",
+      "care": [
+        "Clean the screen using a dry soft microfiber cloth.",
+        "Do not spray liquid directly onto the panel.",
+        "Support the cabinet, not the screen, when moving it."
+      ],
+      "faqs": [
+        {
+          "question": "Can I connect an existing soundbar?",
+          "answer": "Use the labelled ARC or eARC HDMI connection if the soundbar supports it. Match the TV audio-output setting to the connected device."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 24-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "24-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "tv-delivery-checklist"
+      ],
+      "featured_order": 51,
+      "published": true
+    },
+    {
+      "slug": "kitchen-essentials-quickboil-kettle",
+      "sku": "AE-05-001",
+      "department": "kitchen-essentials",
+      "name": "Aegis Hearth QuickBoil Kettle",
+      "brand": "Aegis Hearth",
+      "summary": "Electric kettle · 1.7 L · 1850 W",
+      "description": "Aegis Hearth QuickBoil Kettle is part of the kitchen essentials collection. Countertop tools built around a specific daily task. Check the appliance type, capacity, and rated power before choosing. Surfaces, blades, and containers require different cleaning routines; consult the supplied guide for the exact model. Its distinguishing specifications are electric kettle · 1.7 l · 1850 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 690000,
+      "stock": 15,
+      "color": "Warm white",
+      "features": [
+        "Electric kettle appliance type",
+        "1.7 L capacity",
+        "1850 W rated power"
+      ],
+      "specifications": {
+        "Appliance type": "Electric kettle",
+        "Capacity": "1.7 L",
+        "Rated power": "1850 W",
+        "Controls": "One-touch switch",
+        "Removable component": "Limescale filter"
+      },
+      "in_box": [
+        "Appliance",
+        "Model-specific removable container or tray",
+        "User guide"
+      ],
+      "compatibility": "For indoor domestic use on an earthed 220–240 V supply. Do not immerse powered bases. The blender is not intended for boiling liquids or dry grinding.",
+      "care": [
+        "Unplug and allow hot parts to cool before cleaning.",
+        "Wash only the removable parts marked washable in the guide.",
+        "Keep electrical bases and power connections dry."
+      ],
+      "faqs": [
+        {
+          "question": "Are all removable parts dishwasher-safe?",
+          "answer": "No blanket dishwasher claim is made. Follow the markings and the model guide; hand washing is the default for this sample range."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 4,
+      "published": true
+    },
+    {
+      "slug": "kitchen-essentials-toast-duo",
+      "sku": "AE-05-002",
+      "department": "kitchen-essentials",
+      "name": "Aegis Hearth Toast Duo",
+      "brand": "Aegis Hearth",
+      "summary": "Two-slot toaster · 2 slices · 850 W",
+      "description": "Aegis Hearth Toast Duo is part of the kitchen essentials collection. Countertop tools built around a specific daily task. Check the appliance type, capacity, and rated power before choosing. Surfaces, blades, and containers require different cleaning routines; consult the supplied guide for the exact model. Its distinguishing specifications are two-slot toaster · 2 slices · 850 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 890000,
+      "stock": 16,
+      "color": "Graphite",
+      "features": [
+        "Two-slot toaster appliance type",
+        "2 slices capacity",
+        "850 W rated power"
+      ],
+      "specifications": {
+        "Appliance type": "Two-slot toaster",
+        "Capacity": "2 slices",
+        "Rated power": "850 W",
+        "Controls": "6 browning levels",
+        "Removable component": "Crumb tray"
+      },
+      "in_box": [
+        "Appliance",
+        "Model-specific removable container or tray",
+        "User guide"
+      ],
+      "compatibility": "For indoor domestic use on an earthed 220–240 V supply. Do not immerse powered bases. The blender is not intended for boiling liquids or dry grinding.",
+      "care": [
+        "Unplug and allow hot parts to cool before cleaning.",
+        "Wash only the removable parts marked washable in the guide.",
+        "Keep electrical bases and power connections dry."
+      ],
+      "faqs": [
+        {
+          "question": "Are all removable parts dishwasher-safe?",
+          "answer": "No blanket dishwasher claim is made. Follow the markings and the model guide; hand washing is the default for this sample range."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 16,
+      "published": true
+    },
+    {
+      "slug": "kitchen-essentials-blend-600",
+      "sku": "AE-05-003",
+      "department": "kitchen-essentials",
+      "name": "Aegis Hearth Blend 600",
+      "brand": "Aegis Hearth",
+      "summary": "Countertop blender · 1.5 L jar · 600 W",
+      "description": "Aegis Hearth Blend 600 is part of the kitchen essentials collection. Countertop tools built around a specific daily task. Check the appliance type, capacity, and rated power before choosing. Surfaces, blades, and containers require different cleaning routines; consult the supplied guide for the exact model. Its distinguishing specifications are countertop blender · 1.5 l jar · 600 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1190000,
+      "stock": 17,
+      "color": "Silver",
+      "features": [
+        "Countertop blender appliance type",
+        "1.5 L jar capacity",
+        "600 W rated power"
+      ],
+      "specifications": {
+        "Appliance type": "Countertop blender",
+        "Capacity": "1.5 L jar",
+        "Rated power": "600 W",
+        "Controls": "2 speeds + pulse",
+        "Removable component": "Blender jar"
+      },
+      "in_box": [
+        "Appliance",
+        "Model-specific removable container or tray",
+        "User guide"
+      ],
+      "compatibility": "For indoor domestic use on an earthed 220–240 V supply. Do not immerse powered bases. The blender is not intended for boiling liquids or dry grinding.",
+      "care": [
+        "Unplug and allow hot parts to cool before cleaning.",
+        "Wash only the removable parts marked washable in the guide.",
+        "Keep electrical bases and power connections dry."
+      ],
+      "faqs": [
+        {
+          "question": "Are all removable parts dishwasher-safe?",
+          "answer": "No blanket dishwasher claim is made. Follow the markings and the model guide; hand washing is the default for this sample range."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 28,
+      "published": true
+    },
+    {
+      "slug": "kitchen-essentials-aircrisp-4",
+      "sku": "AE-05-004",
+      "department": "kitchen-essentials",
+      "name": "Aegis Hearth AirCrisp 4",
+      "brand": "Aegis Hearth",
+      "summary": "Air fryer · 4 L basket · 1400 W",
+      "description": "Aegis Hearth AirCrisp 4 is part of the kitchen essentials collection. Countertop tools built around a specific daily task. Check the appliance type, capacity, and rated power before choosing. Surfaces, blades, and containers require different cleaning routines; consult the supplied guide for the exact model. Its distinguishing specifications are air fryer · 4 l basket · 1400 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 2490000,
+      "stock": 0,
+      "color": "Sage",
+      "features": [
+        "Air fryer appliance type",
+        "4 L basket capacity",
+        "1400 W rated power"
+      ],
+      "specifications": {
+        "Appliance type": "Air fryer",
+        "Capacity": "4 L basket",
+        "Rated power": "1400 W",
+        "Controls": "80–200 °C dial",
+        "Removable component": "Cooking basket"
+      },
+      "in_box": [
+        "Appliance",
+        "Model-specific removable container or tray",
+        "User guide"
+      ],
+      "compatibility": "For indoor domestic use on an earthed 220–240 V supply. Do not immerse powered bases. The blender is not intended for boiling liquids or dry grinding.",
+      "care": [
+        "Unplug and allow hot parts to cool before cleaning.",
+        "Wash only the removable parts marked washable in the guide.",
+        "Keep electrical bases and power connections dry."
+      ],
+      "faqs": [
+        {
+          "question": "Are all removable parts dishwasher-safe?",
+          "answer": "No blanket dishwasher claim is made. Follow the markings and the model guide; hand washing is the default for this sample range."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 40,
+      "published": true
+    },
+    {
+      "slug": "kitchen-essentials-brew-daily",
+      "sku": "AE-05-005",
+      "department": "kitchen-essentials",
+      "name": "Aegis Hearth Brew Daily",
+      "brand": "Aegis Hearth",
+      "summary": "Filter coffee maker · 1.2 L carafe · 900 W",
+      "description": "Aegis Hearth Brew Daily is part of the kitchen essentials collection. Countertop tools built around a specific daily task. Check the appliance type, capacity, and rated power before choosing. Surfaces, blades, and containers require different cleaning routines; consult the supplied guide for the exact model. Its distinguishing specifications are filter coffee maker · 1.2 l carafe · 900 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1890000,
+      "stock": 19,
+      "color": "Midnight",
+      "features": [
+        "Filter coffee maker appliance type",
+        "1.2 L carafe capacity",
+        "900 W rated power"
+      ],
+      "specifications": {
+        "Appliance type": "Filter coffee maker",
+        "Capacity": "1.2 L carafe",
+        "Rated power": "900 W",
+        "Controls": "One-touch brew",
+        "Removable component": "Filter basket"
+      },
+      "in_box": [
+        "Appliance",
+        "Model-specific removable container or tray",
+        "User guide"
+      ],
+      "compatibility": "For indoor domestic use on an earthed 220–240 V supply. Do not immerse powered bases. The blender is not intended for boiling liquids or dry grinding.",
+      "care": [
+        "Unplug and allow hot parts to cool before cleaning.",
+        "Wash only the removable parts marked washable in the guide.",
+        "Keep electrical bases and power connections dry."
+      ],
+      "faqs": [
+        {
+          "question": "Are all removable parts dishwasher-safe?",
+          "answer": "No blanket dishwasher claim is made. Follow the markings and the model guide; hand washing is the default for this sample range."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 52,
+      "published": true
+    },
+    {
+      "slug": "microwaves-ovens-solo-20",
+      "sku": "AE-06-001",
+      "department": "microwaves-ovens",
+      "name": "Aegis Hearth Solo 20",
+      "brand": "Aegis Hearth",
+      "summary": "20 L · Microwave · 700 W",
+      "description": "Aegis Hearth Solo 20 is part of the microwaves & ovens collection. Choose between fast reheating, grill finishing, and temperature-controlled baking. Microwave output is different from electrical input power. The countertop oven uses conventional heating and does not provide microwave cooking. Its distinguishing specifications are 20 l · microwave · 700 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 2190000,
+      "stock": 18,
+      "color": "Warm white",
+      "features": [
+        "20 L capacity",
+        "Microwave heating type",
+        "700 W microwave output"
+      ],
+      "specifications": {
+        "Capacity": "20 L",
+        "Heating type": "Microwave",
+        "Microwave output": "700 W",
+        "Controls": "Mechanical dial",
+        "Convection": "No"
+      },
+      "in_box": [
+        "Appliance",
+        "Approved tray or turntable",
+        "User guide"
+      ],
+      "compatibility": "Use only cookware approved for the selected heating mode. Metal cookware must never be used in microwave mode unless the manufacturer explicitly specifies an approved accessory.",
+      "care": [
+        "Remove food splashes once the cavity is cool.",
+        "Keep vents free of obstruction.",
+        "Do not operate with damaged door seals or safety interlocks."
+      ],
+      "faqs": [
+        {
+          "question": "Can every model bake a cake?",
+          "answer": "Temperature-controlled baking is available on Convection 28 and Bake Oven 42. Solo microwave models do not provide conventional oven baking."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "prepare-return-request"
+      ],
+      "featured_order": 5,
+      "published": true
+    },
+    {
+      "slug": "microwaves-ovens-solo-digital-23",
+      "sku": "AE-06-002",
+      "department": "microwaves-ovens",
+      "name": "Aegis Hearth Solo Digital 23",
+      "brand": "Aegis Hearth",
+      "summary": "23 L · Microwave · 800 W",
+      "description": "Aegis Hearth Solo Digital 23 is part of the microwaves & ovens collection. Choose between fast reheating, grill finishing, and temperature-controlled baking. Microwave output is different from electrical input power. The countertop oven uses conventional heating and does not provide microwave cooking. Its distinguishing specifications are 23 l · microwave · 800 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 2890000,
+      "stock": 19,
+      "color": "Graphite",
+      "features": [
+        "23 L capacity",
+        "Microwave heating type",
+        "800 W microwave output"
+      ],
+      "specifications": {
+        "Capacity": "23 L",
+        "Heating type": "Microwave",
+        "Microwave output": "800 W",
+        "Controls": "Digital timer",
+        "Convection": "No"
+      },
+      "in_box": [
+        "Appliance",
+        "Approved tray or turntable",
+        "User guide"
+      ],
+      "compatibility": "Use only cookware approved for the selected heating mode. Metal cookware must never be used in microwave mode unless the manufacturer explicitly specifies an approved accessory.",
+      "care": [
+        "Remove food splashes once the cavity is cool.",
+        "Keep vents free of obstruction.",
+        "Do not operate with damaged door seals or safety interlocks."
+      ],
+      "faqs": [
+        {
+          "question": "Can every model bake a cake?",
+          "answer": "Temperature-controlled baking is available on Convection 28 and Bake Oven 42. Solo microwave models do not provide conventional oven baking."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "prepare-return-request"
+      ],
+      "featured_order": 17,
+      "published": true
+    },
+    {
+      "slug": "microwaves-ovens-grill-25",
+      "sku": "AE-06-003",
+      "department": "microwaves-ovens",
+      "name": "Aegis Hearth Grill 25",
+      "brand": "Aegis Hearth",
+      "summary": "25 L · Microwave + grill · 900 W",
+      "description": "Aegis Hearth Grill 25 is part of the microwaves & ovens collection. Choose between fast reheating, grill finishing, and temperature-controlled baking. Microwave output is different from electrical input power. The countertop oven uses conventional heating and does not provide microwave cooking. Its distinguishing specifications are 25 l · microwave + grill · 900 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3890000,
+      "stock": 0,
+      "color": "Silver",
+      "features": [
+        "25 L capacity",
+        "Microwave + grill heating type",
+        "900 W microwave output"
+      ],
+      "specifications": {
+        "Capacity": "25 L",
+        "Heating type": "Microwave + grill",
+        "Microwave output": "900 W",
+        "Controls": "Digital timer",
+        "Convection": "No"
+      },
+      "in_box": [
+        "Appliance",
+        "Approved tray or turntable",
+        "User guide"
+      ],
+      "compatibility": "Use only cookware approved for the selected heating mode. Metal cookware must never be used in microwave mode unless the manufacturer explicitly specifies an approved accessory.",
+      "care": [
+        "Remove food splashes once the cavity is cool.",
+        "Keep vents free of obstruction.",
+        "Do not operate with damaged door seals or safety interlocks."
+      ],
+      "faqs": [
+        {
+          "question": "Can every model bake a cake?",
+          "answer": "Temperature-controlled baking is available on Convection 28 and Bake Oven 42. Solo microwave models do not provide conventional oven baking."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "prepare-return-request"
+      ],
+      "featured_order": 29,
+      "published": true
+    },
+    {
+      "slug": "microwaves-ovens-convection-28",
+      "sku": "AE-06-004",
+      "department": "microwaves-ovens",
+      "name": "Aegis Hearth Convection 28",
+      "brand": "Aegis Hearth",
+      "summary": "28 L · Microwave + convection · 900 W",
+      "description": "Aegis Hearth Convection 28 is part of the microwaves & ovens collection. Choose between fast reheating, grill finishing, and temperature-controlled baking. Microwave output is different from electrical input power. The countertop oven uses conventional heating and does not provide microwave cooking. Its distinguishing specifications are 28 l · microwave + convection · 900 w. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 5690000,
+      "stock": 21,
+      "color": "Sage",
+      "features": [
+        "28 L capacity",
+        "Microwave + convection heating type",
+        "900 W microwave output"
+      ],
+      "specifications": {
+        "Capacity": "28 L",
+        "Heating type": "Microwave + convection",
+        "Microwave output": "900 W",
+        "Controls": "Temperature + timer",
+        "Convection": "Yes"
+      },
+      "in_box": [
+        "Appliance",
+        "Approved tray or turntable",
+        "User guide"
+      ],
+      "compatibility": "Use only cookware approved for the selected heating mode. Metal cookware must never be used in microwave mode unless the manufacturer explicitly specifies an approved accessory.",
+      "care": [
+        "Remove food splashes once the cavity is cool.",
+        "Keep vents free of obstruction.",
+        "Do not operate with damaged door seals or safety interlocks."
+      ],
+      "faqs": [
+        {
+          "question": "Can every model bake a cake?",
+          "answer": "Temperature-controlled baking is available on Convection 28 and Bake Oven 42. Solo microwave models do not provide conventional oven baking."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "prepare-return-request"
+      ],
+      "featured_order": 41,
+      "published": true
+    },
+    {
+      "slug": "microwaves-ovens-bake-oven-42",
+      "sku": "AE-06-005",
+      "department": "microwaves-ovens",
+      "name": "Aegis Hearth Bake Oven 42",
+      "brand": "Aegis Hearth",
+      "summary": "42 L · Electric countertop oven · Not applicable",
+      "description": "Aegis Hearth Bake Oven 42 is part of the microwaves & ovens collection. Choose between fast reheating, grill finishing, and temperature-controlled baking. Microwave output is different from electrical input power. The countertop oven uses conventional heating and does not provide microwave cooking. Its distinguishing specifications are 42 l · electric countertop oven · not applicable. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 4590000,
+      "stock": 3,
+      "color": "Midnight",
+      "features": [
+        "42 L capacity",
+        "Electric countertop oven heating type",
+        "Not applicable microwave output"
+      ],
+      "specifications": {
+        "Capacity": "42 L",
+        "Heating type": "Electric countertop oven",
+        "Microwave output": "Not applicable",
+        "Controls": "Temperature + timer",
+        "Convection": "Yes"
+      },
+      "in_box": [
+        "Appliance",
+        "Approved tray or turntable",
+        "User guide"
+      ],
+      "compatibility": "Use only cookware approved for the selected heating mode. Metal cookware must never be used in microwave mode unless the manufacturer explicitly specifies an approved accessory.",
+      "care": [
+        "Remove food splashes once the cavity is cool.",
+        "Keep vents free of obstruction.",
+        "Do not operate with damaged door seals or safety interlocks."
+      ],
+      "faqs": [
+        {
+          "question": "Can every model bake a cake?",
+          "answer": "Temperature-controlled baking is available on Convection 28 and Bake Oven 42. Solo microwave models do not provide conventional oven baking."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "kitchen-appliance-cleaning",
+        "prepare-return-request"
+      ],
+      "featured_order": 53,
+      "published": true
+    },
+    {
+      "slug": "vacuum-cleaners-handy-12",
+      "sku": "AE-07-001",
+      "department": "vacuum-cleaners",
+      "name": "Aegis Flow Handy 12",
+      "brand": "Aegis Flow",
+      "summary": "Handheld cordless · 0.4 L · 12 minutes",
+      "description": "Aegis Flow Handy 12 is part of the vacuum cleaners collection. Dry-cleaning tools for crumbs, hard floors, rugs, and regular upkeep. Cordless runtime is measured in the sample specification at the lowest power setting; higher suction and powered brushes reduce it. Its distinguishing specifications are handheld cordless · 0.4 l · 12 minutes. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 990000,
+      "stock": 21,
+      "color": "Warm white",
+      "features": [
+        "Handheld cordless type",
+        "0.4 L dust capacity",
+        "12 minutes maximum runtime"
+      ],
+      "specifications": {
+        "Type": "Handheld cordless",
+        "Dust capacity": "0.4 L",
+        "Maximum runtime": "12 minutes",
+        "Wet pickup": "No",
+        "Charging time": "4 hours"
+      },
+      "in_box": [
+        "Vacuum cleaner",
+        "Primary floor or crevice attachment",
+        "Power cable or charger",
+        "User guide"
+      ],
+      "compatibility": "Dry debris only. Not suitable for hot ash, liquids, or hazardous construction dust. Robot performance depends on floor layout, thresholds, cables, and rug height.",
+      "care": [
+        "Empty the dust compartment before it reaches the fill line.",
+        "Remove trapped hair from user-serviceable brush rolls.",
+        "Dry washable filters completely before reassembly."
+      ],
+      "faqs": [
+        {
+          "question": "Can it clean a wet floor?",
+          "answer": "No. All five models in this department are dry-pickup appliances, including the robot model."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 6,
+      "published": true
+    },
+    {
+      "slug": "vacuum-cleaners-canister-1600",
+      "sku": "AE-07-002",
+      "department": "vacuum-cleaners",
+      "name": "Aegis Flow Canister 1600",
+      "brand": "Aegis Flow",
+      "summary": "Corded canister · 2 L · Mains powered",
+      "description": "Aegis Flow Canister 1600 is part of the vacuum cleaners collection. Dry-cleaning tools for crumbs, hard floors, rugs, and regular upkeep. Cordless runtime is measured in the sample specification at the lowest power setting; higher suction and powered brushes reduce it. Its distinguishing specifications are corded canister · 2 l · mains powered. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 2290000,
+      "stock": 0,
+      "color": "Graphite",
+      "features": [
+        "Corded canister type",
+        "2 L dust capacity",
+        "Mains powered maximum runtime"
+      ],
+      "specifications": {
+        "Type": "Corded canister",
+        "Dust capacity": "2 L",
+        "Maximum runtime": "Mains powered",
+        "Wet pickup": "No",
+        "Charging time": "Not applicable"
+      },
+      "in_box": [
+        "Vacuum cleaner",
+        "Primary floor or crevice attachment",
+        "Power cable or charger",
+        "User guide"
+      ],
+      "compatibility": "Dry debris only. Not suitable for hot ash, liquids, or hazardous construction dust. Robot performance depends on floor layout, thresholds, cables, and rug height.",
+      "care": [
+        "Empty the dust compartment before it reaches the fill line.",
+        "Remove trapped hair from user-serviceable brush rolls.",
+        "Dry washable filters completely before reassembly."
+      ],
+      "faqs": [
+        {
+          "question": "Can it clean a wet floor?",
+          "answer": "No. All five models in this department are dry-pickup appliances, including the robot model."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 18,
+      "published": true
+    },
+    {
+      "slug": "vacuum-cleaners-stick-35",
+      "sku": "AE-07-003",
+      "department": "vacuum-cleaners",
+      "name": "Aegis Flow Stick 35",
+      "brand": "Aegis Flow",
+      "summary": "Cordless stick · 0.6 L · 35 minutes",
+      "description": "Aegis Flow Stick 35 is part of the vacuum cleaners collection. Dry-cleaning tools for crumbs, hard floors, rugs, and regular upkeep. Cordless runtime is measured in the sample specification at the lowest power setting; higher suction and powered brushes reduce it. Its distinguishing specifications are cordless stick · 0.6 l · 35 minutes. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3590000,
+      "stock": 4,
+      "color": "Silver",
+      "features": [
+        "Cordless stick type",
+        "0.6 L dust capacity",
+        "35 minutes maximum runtime"
+      ],
+      "specifications": {
+        "Type": "Cordless stick",
+        "Dust capacity": "0.6 L",
+        "Maximum runtime": "35 minutes",
+        "Wet pickup": "No",
+        "Charging time": "4 hours"
+      },
+      "in_box": [
+        "Vacuum cleaner",
+        "Primary floor or crevice attachment",
+        "Power cable or charger",
+        "User guide"
+      ],
+      "compatibility": "Dry debris only. Not suitable for hot ash, liquids, or hazardous construction dust. Robot performance depends on floor layout, thresholds, cables, and rug height.",
+      "care": [
+        "Empty the dust compartment before it reaches the fill line.",
+        "Remove trapped hair from user-serviceable brush rolls.",
+        "Dry washable filters completely before reassembly."
+      ],
+      "faqs": [
+        {
+          "question": "Can it clean a wet floor?",
+          "answer": "No. All five models in this department are dry-pickup appliances, including the robot model."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 30,
+      "published": true
+    },
+    {
+      "slug": "vacuum-cleaners-stick-55",
+      "sku": "AE-07-004",
+      "department": "vacuum-cleaners",
+      "name": "Aegis Flow Stick 55",
+      "brand": "Aegis Flow",
+      "summary": "Cordless stick · 0.8 L · 55 minutes",
+      "description": "Aegis Flow Stick 55 is part of the vacuum cleaners collection. Dry-cleaning tools for crumbs, hard floors, rugs, and regular upkeep. Cordless runtime is measured in the sample specification at the lowest power setting; higher suction and powered brushes reduce it. Its distinguishing specifications are cordless stick · 0.8 l · 55 minutes. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 5290000,
+      "stock": 5,
+      "color": "Sage",
+      "features": [
+        "Cordless stick type",
+        "0.8 L dust capacity",
+        "55 minutes maximum runtime"
+      ],
+      "specifications": {
+        "Type": "Cordless stick",
+        "Dust capacity": "0.8 L",
+        "Maximum runtime": "55 minutes",
+        "Wet pickup": "No",
+        "Charging time": "4.5 hours"
+      },
+      "in_box": [
+        "Vacuum cleaner",
+        "Primary floor or crevice attachment",
+        "Power cable or charger",
+        "User guide"
+      ],
+      "compatibility": "Dry debris only. Not suitable for hot ash, liquids, or hazardous construction dust. Robot performance depends on floor layout, thresholds, cables, and rug height.",
+      "care": [
+        "Empty the dust compartment before it reaches the fill line.",
+        "Remove trapped hair from user-serviceable brush rolls.",
+        "Dry washable filters completely before reassembly."
+      ],
+      "faqs": [
+        {
+          "question": "Can it clean a wet floor?",
+          "answer": "No. All five models in this department are dry-pickup appliances, including the robot model."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 42,
+      "published": true
+    },
+    {
+      "slug": "vacuum-cleaners-robot-navigate",
+      "sku": "AE-07-005",
+      "department": "vacuum-cleaners",
+      "name": "Aegis Flow Robot Navigate",
+      "brand": "Aegis Flow",
+      "summary": "Robot vacuum · 0.5 L · 100 minutes",
+      "description": "Aegis Flow Robot Navigate is part of the vacuum cleaners collection. Dry-cleaning tools for crumbs, hard floors, rugs, and regular upkeep. Cordless runtime is measured in the sample specification at the lowest power setting; higher suction and powered brushes reduce it. Its distinguishing specifications are robot vacuum · 0.5 l · 100 minutes. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 7990000,
+      "stock": 6,
+      "color": "Midnight",
+      "features": [
+        "Robot vacuum type",
+        "0.5 L dust capacity",
+        "100 minutes maximum runtime"
+      ],
+      "specifications": {
+        "Type": "Robot vacuum",
+        "Dust capacity": "0.5 L",
+        "Maximum runtime": "100 minutes",
+        "Wet pickup": "No",
+        "Charging time": "5 hours"
+      },
+      "in_box": [
+        "Vacuum cleaner",
+        "Primary floor or crevice attachment",
+        "Power cable or charger",
+        "User guide"
+      ],
+      "compatibility": "Dry debris only. Not suitable for hot ash, liquids, or hazardous construction dust. Robot performance depends on floor layout, thresholds, cables, and rug height.",
+      "care": [
+        "Empty the dust compartment before it reaches the fill line.",
+        "Remove trapped hair from user-serviceable brush rolls.",
+        "Dry washable filters completely before reassembly."
+      ],
+      "faqs": [
+        {
+          "question": "Can it clean a wet floor?",
+          "answer": "No. All five models in this department are dry-pickup appliances, including the robot model."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 54,
+      "published": true
+    },
+    {
+      "slug": "air-care-desk-fan-12",
+      "sku": "AE-08-001",
+      "department": "air-care",
+      "name": "Aegis Breeze Desk Fan 12",
+      "brand": "Aegis Breeze",
+      "summary": "Desk fan · 35 W · 3",
+      "description": "Aegis Breeze Desk Fan 12 is part of the fans & air care collection. Different approaches to room comfort: air movement, particle filtration, or moisture. These functions are not interchangeable. Fans do not reduce room temperature in the same way as refrigeration-based air conditioning. Its distinguishing specifications are desk fan · 35 w · 3. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 590000,
+      "stock": 0,
+      "color": "Warm white",
+      "features": [
+        "Desk fan type",
+        "35 W rated power",
+        "3 speeds"
+      ],
+      "specifications": {
+        "Type": "Desk fan",
+        "Rated power": "35 W",
+        "Speeds": "3",
+        "Timer": "No",
+        "Consumable": "None"
+      },
+      "in_box": [
+        "Appliance",
+        "Base or stand where applicable",
+        "User guide"
+      ],
+      "compatibility": "Indoor use only. The purifier is not a medical device and does not replace ventilation. The humidifier requires regular water changes and careful cleaning.",
+      "care": [
+        "Disconnect power before cleaning user-accessible surfaces.",
+        "Keep air inlets and outlets clear.",
+        "Follow the specified filter or water-tank maintenance schedule."
+      ],
+      "faqs": [
+        {
+          "question": "Does the purifier also cool the room?",
+          "answer": "No. Purify 25 circulates air through a filter; it is not an air conditioner and has no refrigeration circuit."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 7,
+      "published": true
+    },
+    {
+      "slug": "air-care-pedestal-16",
+      "sku": "AE-08-002",
+      "department": "air-care",
+      "name": "Aegis Breeze Pedestal 16",
+      "brand": "Aegis Breeze",
+      "summary": "Pedestal fan · 55 W · 3",
+      "description": "Aegis Breeze Pedestal 16 is part of the fans & air care collection. Different approaches to room comfort: air movement, particle filtration, or moisture. These functions are not interchangeable. Fans do not reduce room temperature in the same way as refrigeration-based air conditioning. Its distinguishing specifications are pedestal fan · 55 w · 3. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1090000,
+      "stock": 6,
+      "color": "Graphite",
+      "features": [
+        "Pedestal fan type",
+        "55 W rated power",
+        "3 speeds"
+      ],
+      "specifications": {
+        "Type": "Pedestal fan",
+        "Rated power": "55 W",
+        "Speeds": "3",
+        "Timer": "2 hours",
+        "Consumable": "None"
+      },
+      "in_box": [
+        "Appliance",
+        "Base or stand where applicable",
+        "User guide"
+      ],
+      "compatibility": "Indoor use only. The purifier is not a medical device and does not replace ventilation. The humidifier requires regular water changes and careful cleaning.",
+      "care": [
+        "Disconnect power before cleaning user-accessible surfaces.",
+        "Keep air inlets and outlets clear.",
+        "Follow the specified filter or water-tank maintenance schedule."
+      ],
+      "faqs": [
+        {
+          "question": "Does the purifier also cool the room?",
+          "answer": "No. Purify 25 circulates air through a filter; it is not an air conditioner and has no refrigeration circuit."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 19,
+      "published": true
+    },
+    {
+      "slug": "air-care-tower-quiet",
+      "sku": "AE-08-003",
+      "department": "air-care",
+      "name": "Aegis Breeze Tower Quiet",
+      "brand": "Aegis Breeze",
+      "summary": "Tower fan · 45 W · 3",
+      "description": "Aegis Breeze Tower Quiet is part of the fans & air care collection. Different approaches to room comfort: air movement, particle filtration, or moisture. These functions are not interchangeable. Fans do not reduce room temperature in the same way as refrigeration-based air conditioning. Its distinguishing specifications are tower fan · 45 w · 3. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1890000,
+      "stock": 7,
+      "color": "Silver",
+      "features": [
+        "Tower fan type",
+        "45 W rated power",
+        "3 speeds"
+      ],
+      "specifications": {
+        "Type": "Tower fan",
+        "Rated power": "45 W",
+        "Speeds": "3",
+        "Timer": "8 hours",
+        "Consumable": "None"
+      },
+      "in_box": [
+        "Appliance",
+        "Base or stand where applicable",
+        "User guide"
+      ],
+      "compatibility": "Indoor use only. The purifier is not a medical device and does not replace ventilation. The humidifier requires regular water changes and careful cleaning.",
+      "care": [
+        "Disconnect power before cleaning user-accessible surfaces.",
+        "Keep air inlets and outlets clear.",
+        "Follow the specified filter or water-tank maintenance schedule."
+      ],
+      "faqs": [
+        {
+          "question": "Does the purifier also cool the room?",
+          "answer": "No. Purify 25 circulates air through a filter; it is not an air conditioner and has no refrigeration circuit."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 31,
+      "published": true
+    },
+    {
+      "slug": "air-care-purify-25",
+      "sku": "AE-08-004",
+      "department": "air-care",
+      "name": "Aegis Breeze Purify 25",
+      "brand": "Aegis Breeze",
+      "summary": "Air purifier · 40 W · 4",
+      "description": "Aegis Breeze Purify 25 is part of the fans & air care collection. Different approaches to room comfort: air movement, particle filtration, or moisture. These functions are not interchangeable. Fans do not reduce room temperature in the same way as refrigeration-based air conditioning. Its distinguishing specifications are air purifier · 40 w · 4. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3990000,
+      "stock": 8,
+      "color": "Sage",
+      "features": [
+        "Air purifier type",
+        "40 W rated power",
+        "4 speeds"
+      ],
+      "specifications": {
+        "Type": "Air purifier",
+        "Rated power": "40 W",
+        "Speeds": "4",
+        "Timer": "12 hours",
+        "Consumable": "Replaceable particle filter"
+      },
+      "in_box": [
+        "Appliance",
+        "Base or stand where applicable",
+        "User guide"
+      ],
+      "compatibility": "Indoor use only. The purifier is not a medical device and does not replace ventilation. The humidifier requires regular water changes and careful cleaning.",
+      "care": [
+        "Disconnect power before cleaning user-accessible surfaces.",
+        "Keep air inlets and outlets clear.",
+        "Follow the specified filter or water-tank maintenance schedule."
+      ],
+      "faqs": [
+        {
+          "question": "Does the purifier also cool the room?",
+          "answer": "No. Purify 25 circulates air through a filter; it is not an air conditioner and has no refrigeration circuit."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 43,
+      "published": true
+    },
+    {
+      "slug": "air-care-humidify-4",
+      "sku": "AE-08-005",
+      "department": "air-care",
+      "name": "Aegis Breeze Humidify 4",
+      "brand": "Aegis Breeze",
+      "summary": "Cool-mist humidifier · 25 W · 3 mist levels",
+      "description": "Aegis Breeze Humidify 4 is part of the fans & air care collection. Different approaches to room comfort: air movement, particle filtration, or moisture. These functions are not interchangeable. Fans do not reduce room temperature in the same way as refrigeration-based air conditioning. Its distinguishing specifications are cool-mist humidifier · 25 w · 3 mist levels. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1490000,
+      "stock": 9,
+      "color": "Midnight",
+      "features": [
+        "Cool-mist humidifier type",
+        "25 W rated power",
+        "3 mist levels speeds"
+      ],
+      "specifications": {
+        "Type": "Cool-mist humidifier",
+        "Rated power": "25 W",
+        "Speeds": "3 mist levels",
+        "Timer": "8 hours",
+        "Consumable": "Water tank cleaning"
+      },
+      "in_box": [
+        "Appliance",
+        "Base or stand where applicable",
+        "User guide"
+      ],
+      "compatibility": "Indoor use only. The purifier is not a medical device and does not replace ventilation. The humidifier requires regular water changes and careful cleaning.",
+      "care": [
+        "Disconnect power before cleaning user-accessible surfaces.",
+        "Keep air inlets and outlets clear.",
+        "Follow the specified filter or water-tank maintenance schedule."
+      ],
+      "faqs": [
+        {
+          "question": "Does the purifier also cool the room?",
+          "answer": "No. Purify 25 circulates air through a filter; it is not an air conditioner and has no refrigeration circuit."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 55,
+      "published": true
+    },
+    {
+      "slug": "smartphones-pocket-a1",
+      "sku": "AE-09-001",
+      "department": "smartphones",
+      "name": "Aegis Orbit Pocket A1",
+      "brand": "Aegis Orbit",
+      "summary": "6.1 inch HD+ · 4 GB · 64 GB",
+      "description": "Aegis Orbit Pocket A1 is part of the smartphones collection. Fictional unlocked handsets for comparing memory, storage, display, and battery requirements. Usable storage is lower than the stated capacity after system software. Network support depends on carrier bands and coverage. Its distinguishing specifications are 6.1 inch hd+ · 4 gb · 64 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 2690000,
+      "stock": 8,
+      "color": "Warm white",
+      "features": [
+        "6.1 inch HD+ display",
+        "4 GB memory",
+        "64 GB storage"
+      ],
+      "specifications": {
+        "Display": "6.1 inch HD+",
+        "Memory": "4 GB",
+        "Storage": "64 GB",
+        "Battery": "4000 mAh",
+        "Network": "4G",
+        "Charging": "15 W USB-C"
+      },
+      "in_box": [
+        "Handset",
+        "USB-C cable",
+        "SIM tool",
+        "Quick-start guide"
+      ],
+      "compatibility": "USB-C charging. Verify SIM format, carrier frequency bands, and local device-registration requirements separately; this synthetic catalog asserts no regulatory approval.",
+      "care": [
+        "Use an undamaged compatible charger.",
+        "Keep the charging port dry.",
+        "Back up personal data before any repair or reset."
+      ],
+      "faqs": [
+        {
+          "question": "Is a wall charger included?",
+          "answer": "No. The box contains a USB-C cable only. Choose a compatible charger separately and match the supported charging profile."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 8,
+      "published": true
+    },
+    {
+      "slug": "smartphones-pocket-a2",
+      "sku": "AE-09-002",
+      "department": "smartphones",
+      "name": "Aegis Orbit Pocket A2",
+      "brand": "Aegis Orbit",
+      "summary": "6.5 inch HD+ · 6 GB · 128 GB",
+      "description": "Aegis Orbit Pocket A2 is part of the smartphones collection. Fictional unlocked handsets for comparing memory, storage, display, and battery requirements. Usable storage is lower than the stated capacity after system software. Network support depends on carrier bands and coverage. Its distinguishing specifications are 6.5 inch hd+ · 6 gb · 128 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3490000,
+      "stock": 9,
+      "color": "Graphite",
+      "features": [
+        "6.5 inch HD+ display",
+        "6 GB memory",
+        "128 GB storage"
+      ],
+      "specifications": {
+        "Display": "6.5 inch HD+",
+        "Memory": "6 GB",
+        "Storage": "128 GB",
+        "Battery": "5000 mAh",
+        "Network": "4G",
+        "Charging": "18 W USB-C"
+      },
+      "in_box": [
+        "Handset",
+        "USB-C cable",
+        "SIM tool",
+        "Quick-start guide"
+      ],
+      "compatibility": "USB-C charging. Verify SIM format, carrier frequency bands, and local device-registration requirements separately; this synthetic catalog asserts no regulatory approval.",
+      "care": [
+        "Use an undamaged compatible charger.",
+        "Keep the charging port dry.",
+        "Back up personal data before any repair or reset."
+      ],
+      "faqs": [
+        {
+          "question": "Is a wall charger included?",
+          "answer": "No. The box contains a USB-C cable only. Choose a compatible charger separately and match the supported charging profile."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 20,
+      "published": true
+    },
+    {
+      "slug": "smartphones-everyday-s1",
+      "sku": "AE-09-003",
+      "department": "smartphones",
+      "name": "Aegis Orbit Everyday S1",
+      "brand": "Aegis Orbit",
+      "summary": "6.5 inch FHD+ · 8 GB · 128 GB",
+      "description": "Aegis Orbit Everyday S1 is part of the smartphones collection. Fictional unlocked handsets for comparing memory, storage, display, and battery requirements. Usable storage is lower than the stated capacity after system software. Network support depends on carrier bands and coverage. Its distinguishing specifications are 6.5 inch fhd+ · 8 gb · 128 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 5490000,
+      "stock": 10,
+      "color": "Silver",
+      "features": [
+        "6.5 inch FHD+ display",
+        "8 GB memory",
+        "128 GB storage"
+      ],
+      "specifications": {
+        "Display": "6.5 inch FHD+",
+        "Memory": "8 GB",
+        "Storage": "128 GB",
+        "Battery": "5000 mAh",
+        "Network": "5G",
+        "Charging": "25 W USB-C"
+      },
+      "in_box": [
+        "Handset",
+        "USB-C cable",
+        "SIM tool",
+        "Quick-start guide"
+      ],
+      "compatibility": "USB-C charging. Verify SIM format, carrier frequency bands, and local device-registration requirements separately; this synthetic catalog asserts no regulatory approval.",
+      "care": [
+        "Use an undamaged compatible charger.",
+        "Keep the charging port dry.",
+        "Back up personal data before any repair or reset."
+      ],
+      "faqs": [
+        {
+          "question": "Is a wall charger included?",
+          "answer": "No. The box contains a USB-C cable only. Choose a compatible charger separately and match the supported charging profile."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 32,
+      "published": true
+    },
+    {
+      "slug": "smartphones-everyday-s2",
+      "sku": "AE-09-004",
+      "department": "smartphones",
+      "name": "Aegis Orbit Everyday S2",
+      "brand": "Aegis Orbit",
+      "summary": "6.7 inch FHD+ · 8 GB · 256 GB",
+      "description": "Aegis Orbit Everyday S2 is part of the smartphones collection. Fictional unlocked handsets for comparing memory, storage, display, and battery requirements. Usable storage is lower than the stated capacity after system software. Network support depends on carrier bands and coverage. Its distinguishing specifications are 6.7 inch fhd+ · 8 gb · 256 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 7290000,
+      "stock": 11,
+      "color": "Sage",
+      "features": [
+        "6.7 inch FHD+ display",
+        "8 GB memory",
+        "256 GB storage"
+      ],
+      "specifications": {
+        "Display": "6.7 inch FHD+",
+        "Memory": "8 GB",
+        "Storage": "256 GB",
+        "Battery": "5000 mAh",
+        "Network": "5G",
+        "Charging": "33 W USB-C"
+      },
+      "in_box": [
+        "Handset",
+        "USB-C cable",
+        "SIM tool",
+        "Quick-start guide"
+      ],
+      "compatibility": "USB-C charging. Verify SIM format, carrier frequency bands, and local device-registration requirements separately; this synthetic catalog asserts no regulatory approval.",
+      "care": [
+        "Use an undamaged compatible charger.",
+        "Keep the charging port dry.",
+        "Back up personal data before any repair or reset."
+      ],
+      "faqs": [
+        {
+          "question": "Is a wall charger included?",
+          "answer": "No. The box contains a USB-C cable only. Choose a compatible charger separately and match the supported charging profile."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 44,
+      "published": true
+    },
+    {
+      "slug": "smartphones-pro-x1",
+      "sku": "AE-09-005",
+      "department": "smartphones",
+      "name": "Aegis Orbit Pro X1",
+      "brand": "Aegis Orbit",
+      "summary": "6.7 inch OLED · 12 GB · 256 GB",
+      "description": "Aegis Orbit Pro X1 is part of the smartphones collection. Fictional unlocked handsets for comparing memory, storage, display, and battery requirements. Usable storage is lower than the stated capacity after system software. Network support depends on carrier bands and coverage. Its distinguishing specifications are 6.7 inch oled · 12 gb · 256 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 11990000,
+      "stock": 12,
+      "color": "Midnight",
+      "features": [
+        "6.7 inch OLED display",
+        "12 GB memory",
+        "256 GB storage"
+      ],
+      "specifications": {
+        "Display": "6.7 inch OLED",
+        "Memory": "12 GB",
+        "Storage": "256 GB",
+        "Battery": "5200 mAh",
+        "Network": "5G",
+        "Charging": "45 W USB-C"
+      },
+      "in_box": [
+        "Handset",
+        "USB-C cable",
+        "SIM tool",
+        "Quick-start guide"
+      ],
+      "compatibility": "USB-C charging. Verify SIM format, carrier frequency bands, and local device-registration requirements separately; this synthetic catalog asserts no regulatory approval.",
+      "care": [
+        "Use an undamaged compatible charger.",
+        "Keep the charging port dry.",
+        "Back up personal data before any repair or reset."
+      ],
+      "faqs": [
+        {
+          "question": "Is a wall charger included?",
+          "answer": "No. The box contains a USB-C cable only. Choose a compatible charger separately and match the supported charging profile."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 56,
+      "published": true
+    },
+    {
+      "slug": "laptops-note-14",
+      "sku": "AE-10-001",
+      "department": "laptops",
+      "name": "Aegis Studio Note 14",
+      "brand": "Aegis Studio",
+      "summary": "14 inch FHD · 4-core entry · 8 GB",
+      "description": "Aegis Studio Note 14 is part of the laptops collection. A synthetic laptop range spanning document work, multitasking, and creative workloads. Processor classes are dataset descriptors rather than real chip brands or benchmark claims. Select memory and graphics according to the software you intend to use. Its distinguishing specifications are 14 inch fhd · 4-core entry · 8 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 8490000,
+      "stock": 11,
+      "color": "Warm white",
+      "features": [
+        "14 inch FHD display",
+        "4-core entry processor class",
+        "8 GB memory"
+      ],
+      "specifications": {
+        "Display": "14 inch FHD",
+        "Processor class": "4-core entry",
+        "Memory": "8 GB",
+        "Storage": "256 GB SSD",
+        "Graphics": "Integrated",
+        "Weight": "1.35 kg"
+      },
+      "in_box": [
+        "Laptop",
+        "Power adapter",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Includes a model-matched power adapter. USB-C video output and charging are not assumed unless specified in a model guide. External monitors and paid software licenses are not included.",
+      "care": [
+        "Keep vents clear on a firm surface.",
+        "Disconnect power before cleaning the exterior.",
+        "Back up files before servicing or reinstalling software."
+      ],
+      "faqs": [
+        {
+          "question": "Can I use it for games or video editing?",
+          "answer": "The Create and Performance models have dedicated graphics in this dataset. Check the exact application requirements; no frame-rate or rendering-time guarantee is provided."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 9,
+      "published": true
+    },
+    {
+      "slug": "laptops-note-15",
+      "sku": "AE-10-002",
+      "department": "laptops",
+      "name": "Aegis Studio Note 15",
+      "brand": "Aegis Studio",
+      "summary": "15.6 inch FHD · 6-core everyday · 8 GB",
+      "description": "Aegis Studio Note 15 is part of the laptops collection. A synthetic laptop range spanning document work, multitasking, and creative workloads. Processor classes are dataset descriptors rather than real chip brands or benchmark claims. Select memory and graphics according to the software you intend to use. Its distinguishing specifications are 15.6 inch fhd · 6-core everyday · 8 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 9990000,
+      "stock": 12,
+      "color": "Graphite",
+      "features": [
+        "15.6 inch FHD display",
+        "6-core everyday processor class",
+        "8 GB memory"
+      ],
+      "specifications": {
+        "Display": "15.6 inch FHD",
+        "Processor class": "6-core everyday",
+        "Memory": "8 GB",
+        "Storage": "512 GB SSD",
+        "Graphics": "Integrated",
+        "Weight": "1.7 kg"
+      },
+      "in_box": [
+        "Laptop",
+        "Power adapter",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Includes a model-matched power adapter. USB-C video output and charging are not assumed unless specified in a model guide. External monitors and paid software licenses are not included.",
+      "care": [
+        "Keep vents clear on a firm surface.",
+        "Disconnect power before cleaning the exterior.",
+        "Back up files before servicing or reinstalling software."
+      ],
+      "faqs": [
+        {
+          "question": "Can I use it for games or video editing?",
+          "answer": "The Create and Performance models have dedicated graphics in this dataset. Check the exact application requirements; no frame-rate or rendering-time guarantee is provided."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 21,
+      "published": true
+    },
+    {
+      "slug": "laptops-work-14",
+      "sku": "AE-10-003",
+      "department": "laptops",
+      "name": "Aegis Studio Work 14",
+      "brand": "Aegis Studio",
+      "summary": "14 inch 2K · 8-core productivity · 16 GB",
+      "description": "Aegis Studio Work 14 is part of the laptops collection. A synthetic laptop range spanning document work, multitasking, and creative workloads. Processor classes are dataset descriptors rather than real chip brands or benchmark claims. Select memory and graphics according to the software you intend to use. Its distinguishing specifications are 14 inch 2k · 8-core productivity · 16 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 13990000,
+      "stock": 13,
+      "color": "Silver",
+      "features": [
+        "14 inch 2K display",
+        "8-core productivity processor class",
+        "16 GB memory"
+      ],
+      "specifications": {
+        "Display": "14 inch 2K",
+        "Processor class": "8-core productivity",
+        "Memory": "16 GB",
+        "Storage": "512 GB SSD",
+        "Graphics": "Integrated",
+        "Weight": "1.4 kg"
+      },
+      "in_box": [
+        "Laptop",
+        "Power adapter",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Includes a model-matched power adapter. USB-C video output and charging are not assumed unless specified in a model guide. External monitors and paid software licenses are not included.",
+      "care": [
+        "Keep vents clear on a firm surface.",
+        "Disconnect power before cleaning the exterior.",
+        "Back up files before servicing or reinstalling software."
+      ],
+      "faqs": [
+        {
+          "question": "Can I use it for games or video editing?",
+          "answer": "The Create and Performance models have dedicated graphics in this dataset. Check the exact application requirements; no frame-rate or rendering-time guarantee is provided."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 33,
+      "published": true
+    },
+    {
+      "slug": "laptops-create-16",
+      "sku": "AE-10-004",
+      "department": "laptops",
+      "name": "Aegis Studio Create 16",
+      "brand": "Aegis Studio",
+      "summary": "16 inch 2.5K · 10-core creator · 16 GB",
+      "description": "Aegis Studio Create 16 is part of the laptops collection. A synthetic laptop range spanning document work, multitasking, and creative workloads. Processor classes are dataset descriptors rather than real chip brands or benchmark claims. Select memory and graphics according to the software you intend to use. Its distinguishing specifications are 16 inch 2.5k · 10-core creator · 16 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 18990000,
+      "stock": 14,
+      "color": "Sage",
+      "features": [
+        "16 inch 2.5K display",
+        "10-core creator processor class",
+        "16 GB memory"
+      ],
+      "specifications": {
+        "Display": "16 inch 2.5K",
+        "Processor class": "10-core creator",
+        "Memory": "16 GB",
+        "Storage": "1 TB SSD",
+        "Graphics": "Dedicated 6 GB",
+        "Weight": "1.95 kg"
+      },
+      "in_box": [
+        "Laptop",
+        "Power adapter",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Includes a model-matched power adapter. USB-C video output and charging are not assumed unless specified in a model guide. External monitors and paid software licenses are not included.",
+      "care": [
+        "Keep vents clear on a firm surface.",
+        "Disconnect power before cleaning the exterior.",
+        "Back up files before servicing or reinstalling software."
+      ],
+      "faqs": [
+        {
+          "question": "Can I use it for games or video editing?",
+          "answer": "The Create and Performance models have dedicated graphics in this dataset. Check the exact application requirements; no frame-rate or rendering-time guarantee is provided."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 45,
+      "published": true
+    },
+    {
+      "slug": "laptops-performance-16",
+      "sku": "AE-10-005",
+      "department": "laptops",
+      "name": "Aegis Studio Performance 16",
+      "brand": "Aegis Studio",
+      "summary": "16 inch 2.5K 144 Hz · 12-core performance · 32 GB",
+      "description": "Aegis Studio Performance 16 is part of the laptops collection. A synthetic laptop range spanning document work, multitasking, and creative workloads. Processor classes are dataset descriptors rather than real chip brands or benchmark claims. Select memory and graphics according to the software you intend to use. Its distinguishing specifications are 16 inch 2.5k 144 hz · 12-core performance · 32 gb. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 24990000,
+      "stock": 15,
+      "color": "Midnight",
+      "features": [
+        "16 inch 2.5K 144 Hz display",
+        "12-core performance processor class",
+        "32 GB memory"
+      ],
+      "specifications": {
+        "Display": "16 inch 2.5K 144 Hz",
+        "Processor class": "12-core performance",
+        "Memory": "32 GB",
+        "Storage": "1 TB SSD",
+        "Graphics": "Dedicated 8 GB",
+        "Weight": "2.3 kg"
+      },
+      "in_box": [
+        "Laptop",
+        "Power adapter",
+        "Power cable",
+        "Quick-start guide"
+      ],
+      "compatibility": "Includes a model-matched power adapter. USB-C video output and charging are not assumed unless specified in a model guide. External monitors and paid software licenses are not included.",
+      "care": [
+        "Keep vents clear on a firm surface.",
+        "Disconnect power before cleaning the exterior.",
+        "Back up files before servicing or reinstalling software."
+      ],
+      "faqs": [
+        {
+          "question": "Can I use it for games or video editing?",
+          "answer": "The Create and Performance models have dedicated graphics in this dataset. Check the exact application requirements; no frame-rate or rendering-time guarantee is provided."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 57,
+      "published": true
+    },
+    {
+      "slug": "audio-buds-mini",
+      "sku": "AE-11-001",
+      "department": "audio",
+      "name": "Aegis Echo Buds Mini",
+      "brand": "Aegis Echo",
+      "summary": "Wireless earbuds · Bluetooth 5.3 · 5 hours + case",
+      "description": "Aegis Echo Buds Mini is part of the audio collection. Personal and shared listening options, from lightweight earbuds to living-room soundbars. Wireless runtime depends on volume and enabled features. Audio return over HDMI requires compatible ports on both the TV and soundbar. Its distinguishing specifications are wireless earbuds · bluetooth 5.3 · 5 hours + case. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 590000,
+      "stock": 14,
+      "color": "Warm white",
+      "features": [
+        "Wireless earbuds type",
+        "Bluetooth 5.3 connectivity",
+        "5 hours + case battery runtime"
+      ],
+      "specifications": {
+        "Type": "Wireless earbuds",
+        "Connectivity": "Bluetooth 5.3",
+        "Battery runtime": "5 hours + case",
+        "Noise cancellation": "No",
+        "Subwoofer": "Not included"
+      },
+      "in_box": [
+        "Audio device",
+        "Charging or power cable",
+        "Model-specific guide"
+      ],
+      "compatibility": "Bluetooth pairing requires a compatible source. Only the soundbars support HDMI audio. An eARC source can negotiate compatible ARC modes, but advanced audio formats depend on both devices.",
+      "care": [
+        "Keep listening volume at a comfortable level.",
+        "Clean ear tips or speaker surfaces as directed.",
+        "Keep charging contacts dry and free from debris."
+      ],
+      "faqs": [
+        {
+          "question": "Can these connect to any TV wirelessly?",
+          "answer": "Only if the TV supports a compatible Bluetooth audio-output profile. For soundbars, a supported HDMI ARC/eARC or optical connection is usually the more predictable choice."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 10,
+      "published": true
+    },
+    {
+      "slug": "audio-buds-anc",
+      "sku": "AE-11-002",
+      "department": "audio",
+      "name": "Aegis Echo Buds ANC",
+      "brand": "Aegis Echo",
+      "summary": "Wireless earbuds · Bluetooth 5.3 · 6 hours + case",
+      "description": "Aegis Echo Buds ANC is part of the audio collection. Personal and shared listening options, from lightweight earbuds to living-room soundbars. Wireless runtime depends on volume and enabled features. Audio return over HDMI requires compatible ports on both the TV and soundbar. Its distinguishing specifications are wireless earbuds · bluetooth 5.3 · 6 hours + case. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1190000,
+      "stock": 15,
+      "color": "Graphite",
+      "features": [
+        "Wireless earbuds type",
+        "Bluetooth 5.3 connectivity",
+        "6 hours + case battery runtime"
+      ],
+      "specifications": {
+        "Type": "Wireless earbuds",
+        "Connectivity": "Bluetooth 5.3",
+        "Battery runtime": "6 hours + case",
+        "Noise cancellation": "Active",
+        "Subwoofer": "Not included"
+      },
+      "in_box": [
+        "Audio device",
+        "Charging or power cable",
+        "Model-specific guide"
+      ],
+      "compatibility": "Bluetooth pairing requires a compatible source. Only the soundbars support HDMI audio. An eARC source can negotiate compatible ARC modes, but advanced audio formats depend on both devices.",
+      "care": [
+        "Keep listening volume at a comfortable level.",
+        "Clean ear tips or speaker surfaces as directed.",
+        "Keep charging contacts dry and free from debris."
+      ],
+      "faqs": [
+        {
+          "question": "Can these connect to any TV wirelessly?",
+          "answer": "Only if the TV supports a compatible Bluetooth audio-output profile. For soundbars, a supported HDMI ARC/eARC or optical connection is usually the more predictable choice."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 22,
+      "published": true
+    },
+    {
+      "slug": "audio-speaker-go",
+      "sku": "AE-11-003",
+      "department": "audio",
+      "name": "Aegis Echo Speaker Go",
+      "brand": "Aegis Echo",
+      "summary": "Portable speaker · Bluetooth 5.3 + AUX · 10 hours",
+      "description": "Aegis Echo Speaker Go is part of the audio collection. Personal and shared listening options, from lightweight earbuds to living-room soundbars. Wireless runtime depends on volume and enabled features. Audio return over HDMI requires compatible ports on both the TV and soundbar. Its distinguishing specifications are portable speaker · bluetooth 5.3 + aux · 10 hours. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 1490000,
+      "stock": 16,
+      "color": "Silver",
+      "features": [
+        "Portable speaker type",
+        "Bluetooth 5.3 + AUX connectivity",
+        "10 hours battery runtime"
+      ],
+      "specifications": {
+        "Type": "Portable speaker",
+        "Connectivity": "Bluetooth 5.3 + AUX",
+        "Battery runtime": "10 hours",
+        "Noise cancellation": "Not applicable",
+        "Subwoofer": "Not included"
+      },
+      "in_box": [
+        "Audio device",
+        "Charging or power cable",
+        "Model-specific guide"
+      ],
+      "compatibility": "Bluetooth pairing requires a compatible source. Only the soundbars support HDMI audio. An eARC source can negotiate compatible ARC modes, but advanced audio formats depend on both devices.",
+      "care": [
+        "Keep listening volume at a comfortable level.",
+        "Clean ear tips or speaker surfaces as directed.",
+        "Keep charging contacts dry and free from debris."
+      ],
+      "faqs": [
+        {
+          "question": "Can these connect to any TV wirelessly?",
+          "answer": "Only if the TV supports a compatible Bluetooth audio-output profile. For soundbars, a supported HDMI ARC/eARC or optical connection is usually the more predictable choice."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 34,
+      "published": true
+    },
+    {
+      "slug": "audio-soundbar-120",
+      "sku": "AE-11-004",
+      "department": "audio",
+      "name": "Aegis Echo Soundbar 120",
+      "brand": "Aegis Echo",
+      "summary": "2.0 soundbar · HDMI ARC + optical + Bluetooth · Mains powered",
+      "description": "Aegis Echo Soundbar 120 is part of the audio collection. Personal and shared listening options, from lightweight earbuds to living-room soundbars. Wireless runtime depends on volume and enabled features. Audio return over HDMI requires compatible ports on both the TV and soundbar. Its distinguishing specifications are 2.0 soundbar · hdmi arc + optical + bluetooth · mains powered. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 3290000,
+      "stock": 17,
+      "color": "Sage",
+      "features": [
+        "2.0 soundbar type",
+        "HDMI ARC + optical + Bluetooth connectivity",
+        "Mains powered battery runtime"
+      ],
+      "specifications": {
+        "Type": "2.0 soundbar",
+        "Connectivity": "HDMI ARC + optical + Bluetooth",
+        "Battery runtime": "Mains powered",
+        "Noise cancellation": "Not applicable",
+        "Subwoofer": "Not included"
+      },
+      "in_box": [
+        "Audio device",
+        "Charging or power cable",
+        "Model-specific guide"
+      ],
+      "compatibility": "Bluetooth pairing requires a compatible source. Only the soundbars support HDMI audio. An eARC source can negotiate compatible ARC modes, but advanced audio formats depend on both devices.",
+      "care": [
+        "Keep listening volume at a comfortable level.",
+        "Clean ear tips or speaker surfaces as directed.",
+        "Keep charging contacts dry and free from debris."
+      ],
+      "faqs": [
+        {
+          "question": "Can these connect to any TV wirelessly?",
+          "answer": "Only if the TV supports a compatible Bluetooth audio-output profile. For soundbars, a supported HDMI ARC/eARC or optical connection is usually the more predictable choice."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 46,
+      "published": true
+    },
+    {
+      "slug": "audio-soundbar-cinema",
+      "sku": "AE-11-005",
+      "department": "audio",
+      "name": "Aegis Echo Soundbar Cinema",
+      "brand": "Aegis Echo",
+      "summary": "2.1 soundbar · HDMI eARC + optical + Bluetooth · Mains powered",
+      "description": "Aegis Echo Soundbar Cinema is part of the audio collection. Personal and shared listening options, from lightweight earbuds to living-room soundbars. Wireless runtime depends on volume and enabled features. Audio return over HDMI requires compatible ports on both the TV and soundbar. Its distinguishing specifications are 2.1 soundbar · hdmi earc + optical + bluetooth · mains powered. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 6490000,
+      "stock": 0,
+      "color": "Midnight",
+      "features": [
+        "2.1 soundbar type",
+        "HDMI eARC + optical + Bluetooth connectivity",
+        "Mains powered battery runtime"
+      ],
+      "specifications": {
+        "Type": "2.1 soundbar",
+        "Connectivity": "HDMI eARC + optical + Bluetooth",
+        "Battery runtime": "Mains powered",
+        "Noise cancellation": "Not applicable",
+        "Subwoofer": "Wireless subwoofer included"
+      },
+      "in_box": [
+        "Audio device",
+        "Charging or power cable",
+        "Model-specific guide"
+      ],
+      "compatibility": "Bluetooth pairing requires a compatible source. Only the soundbars support HDMI audio. An eARC source can negotiate compatible ARC modes, but advanced audio formats depend on both devices.",
+      "care": [
+        "Keep listening volume at a comfortable level.",
+        "Clean ear tips or speaker surfaces as directed.",
+        "Keep charging contacts dry and free from debris."
+      ],
+      "faqs": [
+        {
+          "question": "Can these connect to any TV wirelessly?",
+          "answer": "Only if the TV supports a compatible Bluetooth audio-output profile. For soundbars, a supported HDMI ARC/eARC or optical connection is usually the more predictable choice."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "connect-tv-and-soundbar",
+        "understand-appliance-warranty"
+      ],
+      "featured_order": 58,
+      "published": true
+    },
+    {
+      "slug": "accessories-cable-c60",
+      "sku": "AE-12-001",
+      "department": "accessories",
+      "name": "Aegis Link Cable C60",
+      "brand": "Aegis Link",
+      "summary": "USB-C cable · 60 W charging; USB 2.0 data · USB-C to USB-C",
+      "description": "Aegis Link Cable C60 is part of the accessories collection. Connection and power essentials with explicitly listed capabilities. Connector shape alone does not establish charging speed, display support, or data bandwidth. Check the host device and cable specifications together. Its distinguishing specifications are usb-c cable · 60 w charging; usb 2.0 data · usb-c to usb-c. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 190000,
+      "stock": 17,
+      "color": "Graphite",
+      "features": [
+        "USB-C cable type",
+        "60 W charging; USB 2.0 data primary capability",
+        "USB-C to USB-C connection"
+      ],
+      "specifications": {
+        "Type": "USB-C cable",
+        "Primary capability": "60 W charging; USB 2.0 data",
+        "Connection": "USB-C to USB-C",
+        "Included cable": "1 metre cable",
+        "Color": "Graphite"
+      },
+      "in_box": [
+        "Accessory",
+        "Quick-start guide"
+      ],
+      "compatibility": "The C60 cable carries USB 2.0 data and does not support video output. Hub HDMI output requires a host USB-C port with DisplayPort Alt Mode. PD charging rates depend on the source, cable, and device.",
+      "care": [
+        "Avoid bending cables sharply at connectors.",
+        "Disconnect accessories before cleaning ports.",
+        "Stop using damaged or swollen battery products."
+      ],
+      "faqs": [
+        {
+          "question": "Will any USB-C cable work with a monitor?",
+          "answer": "No. The C60 cable is for charging and USB 2.0 data. Video needs a compatible host port and a cable specifically supporting the required display mode."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 11,
+      "published": true
+    },
+    {
+      "slug": "accessories-charger-pd30",
+      "sku": "AE-12-002",
+      "department": "accessories",
+      "name": "Aegis Link Charger PD30",
+      "brand": "Aegis Link",
+      "summary": "USB-C wall charger · 30 W USB Power Delivery · USB-C output",
+      "description": "Aegis Link Charger PD30 is part of the accessories collection. Connection and power essentials with explicitly listed capabilities. Connector shape alone does not establish charging speed, display support, or data bandwidth. Check the host device and cable specifications together. Its distinguishing specifications are usb-c wall charger · 30 w usb power delivery · usb-c output. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 390000,
+      "stock": 18,
+      "color": "White",
+      "features": [
+        "USB-C wall charger type",
+        "30 W USB Power Delivery primary capability",
+        "USB-C output connection"
+      ],
+      "specifications": {
+        "Type": "USB-C wall charger",
+        "Primary capability": "30 W USB Power Delivery",
+        "Connection": "USB-C output",
+        "Included cable": "No cable",
+        "Color": "White"
+      },
+      "in_box": [
+        "Accessory",
+        "Quick-start guide"
+      ],
+      "compatibility": "The C60 cable carries USB 2.0 data and does not support video output. Hub HDMI output requires a host USB-C port with DisplayPort Alt Mode. PD charging rates depend on the source, cable, and device.",
+      "care": [
+        "Avoid bending cables sharply at connectors.",
+        "Disconnect accessories before cleaning ports.",
+        "Stop using damaged or swollen battery products."
+      ],
+      "faqs": [
+        {
+          "question": "Will any USB-C cable work with a monitor?",
+          "answer": "No. The C60 cable is for charging and USB 2.0 data. Video needs a compatible host port and a cable specifically supporting the required display mode."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 23,
+      "published": true
+    },
+    {
+      "slug": "accessories-power-bank-10k",
+      "sku": "AE-12-003",
+      "department": "accessories",
+      "name": "Aegis Link Power Bank 10K",
+      "brand": "Aegis Link",
+      "summary": "Portable battery · 10000 mAh nominal; 20 W PD · USB-C + USB-A",
+      "description": "Aegis Link Power Bank 10K is part of the accessories collection. Connection and power essentials with explicitly listed capabilities. Connector shape alone does not establish charging speed, display support, or data bandwidth. Check the host device and cable specifications together. Its distinguishing specifications are portable battery · 10000 mah nominal; 20 w pd · usb-c + usb-a. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 590000,
+      "stock": 19,
+      "color": "Graphite",
+      "features": [
+        "Portable battery type",
+        "10000 mAh nominal; 20 W PD primary capability",
+        "USB-C + USB-A connection"
+      ],
+      "specifications": {
+        "Type": "Portable battery",
+        "Primary capability": "10000 mAh nominal; 20 W PD",
+        "Connection": "USB-C + USB-A",
+        "Included cable": "Short USB-C cable",
+        "Color": "Graphite"
+      },
+      "in_box": [
+        "Accessory",
+        "Quick-start guide"
+      ],
+      "compatibility": "The C60 cable carries USB 2.0 data and does not support video output. Hub HDMI output requires a host USB-C port with DisplayPort Alt Mode. PD charging rates depend on the source, cable, and device.",
+      "care": [
+        "Avoid bending cables sharply at connectors.",
+        "Disconnect accessories before cleaning ports.",
+        "Stop using damaged or swollen battery products."
+      ],
+      "faqs": [
+        {
+          "question": "Will any USB-C cable work with a monitor?",
+          "answer": "No. The C60 cable is for charging and USB 2.0 data. Video needs a compatible host port and a cable specifically supporting the required display mode."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 35,
+      "published": true
+    },
+    {
+      "slug": "accessories-hub-6-in-1",
+      "sku": "AE-12-004",
+      "department": "accessories",
+      "name": "Aegis Link Hub 6-in-1",
+      "brand": "Aegis Link",
+      "summary": "USB-C hub · HDMI + USB-A + SD + PD input · USB-C host",
+      "description": "Aegis Link Hub 6-in-1 is part of the accessories collection. Connection and power essentials with explicitly listed capabilities. Connector shape alone does not establish charging speed, display support, or data bandwidth. Check the host device and cable specifications together. Its distinguishing specifications are usb-c hub · hdmi + usb-a + sd + pd input · usb-c host. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 890000,
+      "stock": 0,
+      "color": "Silver",
+      "features": [
+        "USB-C hub type",
+        "HDMI + USB-A + SD + PD input primary capability",
+        "USB-C host connection"
+      ],
+      "specifications": {
+        "Type": "USB-C hub",
+        "Primary capability": "HDMI + USB-A + SD + PD input",
+        "Connection": "USB-C host",
+        "Included cable": "Integrated host cable",
+        "Color": "Silver"
+      },
+      "in_box": [
+        "Accessory",
+        "Quick-start guide"
+      ],
+      "compatibility": "The C60 cable carries USB 2.0 data and does not support video output. Hub HDMI output requires a host USB-C port with DisplayPort Alt Mode. PD charging rates depend on the source, cable, and device.",
+      "care": [
+        "Avoid bending cables sharply at connectors.",
+        "Disconnect accessories before cleaning ports.",
+        "Stop using damaged or swollen battery products."
+      ],
+      "faqs": [
+        {
+          "question": "Will any USB-C cable work with a monitor?",
+          "answer": "No. The C60 cable is for charging and USB 2.0 data. Video needs a compatible host port and a cable specifically supporting the required display mode."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 47,
+      "published": true
+    },
+    {
+      "slug": "accessories-keyboard-compact",
+      "sku": "AE-12-005",
+      "department": "accessories",
+      "name": "Aegis Link Keyboard Compact",
+      "brand": "Aegis Link",
+      "summary": "Wireless keyboard · Bluetooth + USB receiver · Bluetooth / 2.4 GHz",
+      "description": "Aegis Link Keyboard Compact is part of the accessories collection. Connection and power essentials with explicitly listed capabilities. Connector shape alone does not establish charging speed, display support, or data bandwidth. Check the host device and cable specifications together. Its distinguishing specifications are wireless keyboard · bluetooth + usb receiver · bluetooth / 2.4 ghz. Compare these values with the other models in the range to choose the right fit.",
+      "price_paisa": 690000,
+      "stock": 21,
+      "color": "Sand",
+      "features": [
+        "Wireless keyboard type",
+        "Bluetooth + USB receiver primary capability",
+        "Bluetooth / 2.4 GHz connection"
+      ],
+      "specifications": {
+        "Type": "Wireless keyboard",
+        "Primary capability": "Bluetooth + USB receiver",
+        "Connection": "Bluetooth / 2.4 GHz",
+        "Included cable": "Charging cable",
+        "Color": "Sand"
+      },
+      "in_box": [
+        "Accessory",
+        "Quick-start guide"
+      ],
+      "compatibility": "The C60 cable carries USB 2.0 data and does not support video output. Hub HDMI output requires a host USB-C port with DisplayPort Alt Mode. PD charging rates depend on the source, cable, and device.",
+      "care": [
+        "Avoid bending cables sharply at connectors.",
+        "Disconnect accessories before cleaning ports.",
+        "Stop using damaged or swollen battery products."
+      ],
+      "faqs": [
+        {
+          "question": "Will any USB-C cable work with a monitor?",
+          "answer": "No. The C60 cable is for charging and USB 2.0 data. Video needs a compatible host port and a cable specifically supporting the required display mode."
+        },
+        {
+          "question": "What does the sample warranty cover?",
+          "answer": "The fictional 12-month limited warranty covers manufacturing faults after assessment. Accidental damage, misuse, consumables, and unauthorized modifications are excluded."
+        },
+        {
+          "question": "Are these real products available to order?",
+          "answer": "No. Names, specifications, prices, and inventory are synthetic records for the Aegis research storefront. No payment or fulfillment takes place."
+        }
+      ],
+      "warranty": "12-month sample limited warranty. Proof of demo purchase and the model identifier would be required for a claim. Consumables and accidental damage are excluded.",
+      "delivery": "Sample delivery window: 3–5 working days. Installation and delivery charges are not included in the listed product price. This research site does not dispatch goods.",
+      "returns": "Sample policy: request review within 7 days of demo delivery. Include the model, reason, packaging condition, and fault evidence. Approval is subject to assessment; used consumables are excluded. No actual returns are processed.",
+      "help_slugs": [
+        "understand-appliance-warranty",
+        "prepare-return-request"
+      ],
+      "featured_order": 59,
+      "published": true
+    }
+  ]
+}
