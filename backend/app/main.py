@@ -9,6 +9,7 @@ from fastapi.staticfiles import StaticFiles
 from sqlalchemy.exc import SQLAlchemyError
 from starlette.exceptions import HTTPException
 
+from app.api.assistant import router as assistant_router
 from app.api.catalog import router as catalog_router
 from app.api.help import router
 
@@ -20,6 +21,7 @@ def create_app() -> FastAPI:
     app = FastAPI(title="Aegis Support API", version="0.1.0", docs_url=None, redoc_url=None)
     app.include_router(router)
     app.include_router(catalog_router)
+    app.include_router(assistant_router)
 
     @app.middleware("http")
     async def response_headers(request: Request, call_next):
@@ -57,7 +59,7 @@ def create_app() -> FastAPI:
 
     @app.exception_handler(RequestValidationError)
     async def validation_error(request: Request, _exc: RequestValidationError):
-        return error(request, 422, "INVALID_INPUT", "Please check your search or filter values.")
+        return error(request, 422, "INVALID_INPUT", "Please check your input and try again.")
 
     @app.exception_handler(SQLAlchemyError)
     async def database_error(request: Request, _exc: SQLAlchemyError):

@@ -40,10 +40,12 @@ export function Info({ privacy = false }: { privacy?: boolean }) {
           </p>
           <h2>External services</h2>
           <p>
-            Artwork and interface assets are served locally. No AI provider is
-            connected yet. Do not enter personal data or credentials into
-            searches. This notice will be updated before introducing features
-            that process customer information.
+            Assistant questions and recent conversation turns are sent to our
+            backend and its configured local Ollama model, with public catalog
+            and help facts. Chat stays in page memory and clears when you reload
+            or start a new conversation. We do not save chat text in the database
+            or application logs. Do not enter personal data or credentials in
+            chat or searches.
           </p>
         </>
       ) : (
@@ -75,7 +77,7 @@ export function Info({ privacy = false }: { privacy?: boolean }) {
           <p>
             Products carry structured specifications, compatibility details,
             FAQs, care instructions, policies, and linked help guides. This
-            gives a future assistant a broad public knowledge source. Customer
+            gives the local assistant a public knowledge source. Customer
             orders, staff-only information, and controlled security scenarios
             will be added as distinct, access-controlled modules.
           </p>

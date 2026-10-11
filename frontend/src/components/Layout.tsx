@@ -14,6 +14,7 @@ import { Compare } from "../pages/Compare";
 import { CatalogSearch } from "../catalog/components";
 import { useMart } from "../catalog/state";
 import { ShoppingBag, Scale } from "lucide-react";
+import { Assistant } from "./Assistant";
 
 export function Layout() {
   const mart = useMart();
@@ -173,6 +174,7 @@ export function Layout() {
           <span>Thoughtful help. Everyday confidence.</span>
         </div>
       </footer>
+      <Assistant />
     </>
   );
 }

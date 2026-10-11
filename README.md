@@ -2,9 +2,12 @@
 
 Current iteration: a fictional electronics storefront for the Aegis LLM security research target. It includes 60 products across 12 departments, structured product details, search and filters, comparisons, a persistent browser basket with server-calculated estimates, and the original Help Center with 12 guides. All products, brands, prices, inventory, and commercial terms are synthetic.
 
-This release runs locally. It is not the complete commerce product or the vulnerability scanner. Simulated checkout, accounts, orders, tickets, staff tools, AI integration, and isolated vulnerability scenarios are future iterations. No payment or actual fulfillment takes place. There are no deliberate vulnerabilities in the public module. The source directory retains its original name to preserve existing setup paths.
+This release runs locally. It is not the complete commerce product or the vulnerability scanner. Simulated checkout, accounts, orders, tickets, staff tools and isolated vulnerability scenarios are future iterations. No payment or actual fulfillment takes place. There are no deliberate vulnerabilities in the public module. The source directory retains its original name to preserve existing setup paths.
 
 ## Requirements and first run
+
+The first local AI assistant is now available through **Ask Aegis**, using Ollama
+`smollm2:135m`. Keep Ollama running alongside FastAPI. See [assistant setup and limitations](docs/assistant.md).
 
 Use Node.js 24 LTS, npm, and Python 3.12. Dependency versions are recorded in `frontend/package-lock.json` and `backend/requirements-lock.txt`.
 
@@ -57,13 +60,13 @@ fixtures/            Original public article content
 
 React + TypeScript + Vite form the client. TanStack Query handles request state and cancellation. FastAPI provides public read APIs. SQLAlchemy, Psycopg and Alembic support the shared PostgreSQL database. Vite forwards `/api` to the backend during development; the built release uses one origin. Connection settings are listed in `.env.example`. The Free-plan Neon project is live in Singapore; the local backend connects to its shared database.
 
-Search uses parameterized SQL over published content, requiring all search words. Help and product search are separate. Product search supports department, brand, price range, availability, and sorting. Public responses and knowledge exports exclude drafts. Inputs are bounded, errors return request IDs, and database errors use a generic public message. No LLM provider, analytics, or customer data is used. Search text appears in the browser URL; launch scripts disable access logs. Basket product IDs/quantities and comparison IDs use browser local storage. Quotes use database prices and stock, accept at most 20 different products and five units per product, and never reserve inventory or create orders.
+Search uses parameterized SQL over published content, requiring all search words. Help and product search are separate. Product search supports department, brand, price range, availability, and sorting. Public responses and knowledge exports exclude drafts. Inputs are bounded, errors return request IDs, and database errors use a generic public message. The local Ollama assistant uses published catalog and help content; no analytics or customer data is used. Search text appears in the browser URL; launch scripts disable access logs. Basket product IDs/quantities and comparison IDs use browser local storage. Quotes use database prices and stock, accept at most 20 different products and five units per product, and never reserve inventory or create orders.
 
 ## Catalog and future LLM knowledge
 
 `fixtures/catalog.json` contains the full editable synthetic dataset. `scripts/generate_catalog.py` deterministically rebuilds that fixture from curated category definitions. The seed inserts missing records and deliberately does not overwrite local edits. Existing data changes should use reviewed migrations or a future staff editor.
 
-From `backend`, run `./.venv/Scripts/python.exe -m app.export_corpus` to regenerate `fixtures/public-corpus.jsonl` from the current database. The initial export contains **396 sections**: six per product plus 36 help sections. Each has a stable document ID, source URL, source type, visibility, synthetic-data marker, version, and update time. This is a public knowledge corpus, not embeddings or an integrated LLM. Price/stock sections are export-time snapshots; an eventual assistant should query live inventory for current values. See `docs/mart-architecture.md` for the trust boundaries and next iterations.
+From `backend`, run `./.venv/Scripts/python.exe -m app.export_corpus` to regenerate `fixtures/public-corpus.jsonl` from the current database. The initial export contains **396 sections**: six per product plus 36 help sections. Each has a stable document ID, source URL, source type, visibility, synthetic-data marker, version, and update time. This export is a public knowledge corpus, not embeddings. The assistant retrieves live published data directly from PostgreSQL. Price/stock sections are export-time snapshots; an eventual assistant should query live inventory for current values. See `docs/mart-architecture.md` for the trust boundaries and next iterations.
 
 Routes: `/` storefront, `/shop` catalog, `/products/:slug` details, `/compare`, `/basket`, `/help-center` support landing, and existing `/help` routes. Product APIs live under `/api/v1/catalog`; the OpenAPI contract is available as `/openapi.json`.
 
@@ -88,6 +91,6 @@ On a restricted environment that cannot write to the system temporary directory,
 
 This is a validated foundation, not a claim of production readiness for the complete product. A hosted release still needs hosted deployment, backup/restore verification, monitoring, and operational ownership. Neon Free is the active shared database. Render Free remains the planned application host; deployment files are prepared but not deployed. Search currently uses substring matching, appropriate for this small library; reassess indexing as content grows.
 
-Future modules must keep production-safe behavior and controlled vulnerability experiments separate. Never store actual credentials or customer information in test fixtures. The research identifier follows the agreed LLM08 Hidden Context Exposure scope; this iteration introduces no AI context yet.
+Future modules must keep production-safe behavior and controlled vulnerability experiments separate. Never store actual credentials or customer information in test fixtures. The research identifier follows the agreed LLM08 Hidden Context Exposure scope; the assistant currently receives public context only.
 
 Content changes to existing seeded rows should use an explicit data migration or a future staff editor. Editing fixtures only affects records not already present. Original guide text is general educational information and must not be presented as a manufacturer warranty or live service promise.
